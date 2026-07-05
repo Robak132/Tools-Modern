@@ -236,7 +236,7 @@
 
     "quests.tfg_tips.lava_lamp.title": "Lamp Fuel: Lava?",
     "quests.tfg_tips.lava_lamp.subtitle": "Not as mesmerizing as the real deal",
-    "quests.tfg_tips.lava_lamp.desc": "With the very heat resistant metal &9Blue Steel&r, you can create a &dBlue Steel Lamp.&r It can be filled with &cLava&r, giving you an indefinite source of light at the cost of being limited to a single lamp metal.\n\nCareful handling a filled lava lamp, it's very &chot...&r",
+    "quests.tfg_tips.lava_lamp.desc": "With the very heat resistant metal &9Blue Steel&r, you can create a &dBlue Steel Lamp.&r It can be filled with &cLava&r, giving you an indefinite source of light at the cost of being limited to a single lamp metal.",
 
     "quests.tfg_tips.glowstone_lamp.title": "Lamp Fuel: Glowstone",
     "quests.tfg_tips.glowstone_lamp.subtitle": "The best lamp fuel",
@@ -344,7 +344,8 @@
     "quests.tfg_tips.digger_helmet.subtitle": "For when you mine all day long",
     "quests.tfg_tips.digger_helmet.desc.1": "The &dDigger Helmet&r is a helmet that will automatically light up your surroundings, hands-free! Useful if your main hand is occupied and your off-hand is equipped with a shield. It will require a bit of &6Glowstone&r to craft. Maybe you can reach to &4The Beneath&r for some early game access...",
     "quests.tfg_tips.digger_helmet.desc.2": "&l&3Important:&r&l The &dDigger Helmet&f itself works thanks to a specific setting of &cSodium Dynamic Lights&f, you'll have to toggle on &b\"Dynamic Entity Lighting\"&f for it to work properly",
-
+    "quests.tfg_tips.digger_helmet.task": "Any Digger Helmet",
+    
     "quests.tfg_tips.grappling_hook.title": "Grappling Hook",
     "quests.tfg_tips.grappling_hook.subtitle": "This is going to end poorly",
     "quests.tfg_tips.grappling_hook.desc": "By combining 2 pieces of &aRope Coil&r and a &bWrought Iron Pickaxe Head&r, you can create a &dGrappling Hook!&r An ideal tool for scaling big mountains, exploring large caves and traversing the world. It contains an &eupgrade system&r that allows you to combine and modify your &dHook&r to your leisure.",
