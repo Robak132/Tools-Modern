@@ -101,5 +101,21 @@
 	"block.minecraft.smooth_red_sandstone_stairs": "Smooth Hematitic Sandstone Stairs",
 	"block.minecraft.smooth_red_sandstone_slab": "Smooth Hematitic Sandstone Slab",
 	"block.minecraft.cut_red_sandstone": "Cut Hematitic Sandstone",
-	"block.minecraft.cut_red_sandstone_slab": "Cut Hematitic Sandstone Slab"
+	"block.minecraft.cut_red_sandstone_slab": "Cut Hematitic Sandstone Slab",
+
+	"block.minecraft.white_wool": "White Cloth Block",
+	"block.minecraft.magenta_wool": "Magenta Cloth Block",
+	"block.minecraft.light_blue_wool": "Light Blue Cloth Block",
+	"block.minecraft.yellow_wool": "Yellow Cloth Block",
+	"block.minecraft.lime_wool": "Lime Cloth Block",
+	"block.minecraft.pink_wool": "Pink Cloth Block",
+	"block.minecraft.gray_wool": "Gray Cloth Block",
+	"block.minecraft.light_grey_wool": "Light Gray Cloth Block",
+	"block.minecraft.cyan_wool": "Cyan Cloth Block",
+	"block.minecraft.purple_wool": "Purple Cloth Block",
+	"block.minecraft.blue_wool": "Blue Cloth Block",
+	"block.minecraft.brown_wool": "Brown Cloth Block",
+	"block.minecraft.green_wool": "Green Cloth Block",
+	"block.minecraft.red_wool": "Red Cloth Block",
+	"block.minecraft.black_wool": "Black Cloth Block"
 }
