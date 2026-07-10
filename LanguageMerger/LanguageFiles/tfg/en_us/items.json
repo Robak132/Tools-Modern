@@ -534,6 +534,10 @@
     "item.tfg.jar.shadow_berry_unsealed": "Nox Berry Jam",
     "item.tfg.jar.magmango": "Magmango Jam",
     "item.tfg.jar.magmango_unsealed": "Magmango Jam",
+    "item.tfg.jar.date": "Date Jam",
+    "item.tfg.jar.date_unsealed": "Date Jam",
+    "item.tfg.jar.acai": "Açaí Jam",
+    "item.tfg.jar.acai_unsealed": "Açaí Jam",
 
     "item.tfg.empty_capsule": "Empty Capsule",
     "item.tfg.parasiticide_capsule": "Parasiticide Capsule",
@@ -546,5 +550,14 @@
 
     "item.tfg.chameleon_spray_can": "Chameleon Spray Can",
     "item.tfg.prismatic_paint_bucket": "Prismatic Paint Bucket",
-    "item.tfg.chameleon_spray_can.with_color": "%s (%s"
+    "item.tfg.chameleon_spray_can.with_color": "%s (%s",
+
+    "item.tfg.food.date": "Date",
+    "item.tfg.food.oil_palm": "Oil Palm",
+    "item.tfg.food.acai": "Açaí",
+    "item.tfg.food.opened_brown_coconut": "Opened Coconut",
+    "item.tfg.food.opened_green_coconut": "Opened Young Coconut",
+    "item.tfg.oil_palm_paste": "Oil Palm Paste",
+    "item.tfg.oil_palm_debris": "Oil Palm Debris",
+    "item.tfg.oil_palm_fiber": "Oil Palm Fiber"
 }
