@@ -294,5 +294,13 @@
 
     "tfg.tooltip.machine.wireless_charger.short_range": "§7Super Charged mode: §f%s§7 block radius, 4A",
     "tfg.tooltip.machine.wireless_charger.long_range": "§7Long Range mode: §f%s§7 block radius, 1A",
-    "tfg.tooltip.machine.wireless_charger.usage": "§7Use a §bScrewdriver§7 to switch modes"
+    "tfg.tooltip.machine.wireless_charger.usage": "§7Use a §bScrewdriver§7 to switch modes",
+
+    "tfg.tooltip.lifecycle.fruiting": "§l§6Fruiting",
+    "tfg.tooltip.lifecycle.flowering": "§l§dFlowering",
+    "tfg.tooltip.lifecycle.healthy": "§l§bHealthy",
+    "tfg.tooltip.lifecycle.dormant": "§l§fDormant",
+    "tfg.tooltip.lifecycle.growing": "§fGrowing...",
+    "tfg.tooltip.palm_tree.cluster_harvest": "Harvest now for [%s] x%d",
+    "tfg.tooltip.palm_tree.head_harvest": "Break with an axe for 1-2 saplings."
 }
