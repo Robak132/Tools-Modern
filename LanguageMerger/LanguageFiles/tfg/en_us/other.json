@@ -118,10 +118,13 @@
 
     "tfg.machine.gas_well.active": "Active",
     "tfg.machine.gas_well.waiting_explosive": "Waiting for Explosive",
-    "tfg.machine.gas_well.waiting_explosive.tooltip": "Insert an explosive to start the machine",
+    "tfg.machine.gas_well.waiting_explosive.tooltip": "Insert an explosive (tag #explosive in EMI) to start the machine",
     "tfg.machine.gas_well.fluid_consumption": "Fluid: %s Water or %s Steam",
     "tfg.machine.gas_well.next_explosive": "Next explosive in: %s",
     "tfg.machine.gas_well.vein_remaining": "Vein remaining: %s",
+    "tfg.machine.gas_well.output_full": "Output Hatch Full!",
+    "tfg.machine.gas_well.output_full.tooltip": "While the vein isn't being depleted the explosives and water or steam are still being consumed.",
+    "tfg.machine.gas_well.fluid.tooltip": "Can only pump Natural Gas.",
 
     "tfg.machine.pastoral_engine.animals_total": "Animals in zone: %s",
     "tfg.machine.pastoral_engine.animals_ready": "Ready to harvest: %s",
