@@ -26,9 +26,9 @@
 
 ## Development
 
-Interested in contributing? For detailed setup instructions, coding standards, and guidelines, please refer to the [CONTRIBUTING.md](https://github.com/TerraFirmaGreg-Team/Modpack-Modern/blob/dev/.github/CONTRIBUTING.md).
+Interested in contributing? For detailed setup instructions, coding standards, and guidelines, please refer to the [Contributing Guide](https://wiki.terrafirmagreg.team/modern/en_us/developer/contributing).
 
-Want to help translate? Please read [this](https://github.com/TerraFirmaGreg-Team/Modpack-Modern/blob/dev/kubejs/README_IF_TRANSLATING.md) instead.
+Want to help translate? Check out our [Crowdin](https://terrafirmagreg.crowdin.com/modern)!
 
 ---
 
