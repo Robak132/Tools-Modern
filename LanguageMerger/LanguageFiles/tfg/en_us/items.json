@@ -221,7 +221,6 @@
     "item.tfg.spawn_egg.lemming": "Lemming Spawn Egg",
     "item.tfg.spawn_egg.bison": "Bison Spawn Egg",
     "item.tfg.spawn_egg.leopard_seal": "Leopard Seal Spawn Egg",
-    "item.tfg.spawn_egg.slime": "Tameable Slime Spawn Egg",
 
     "item.tfg.flintlock_mechanism": "Flintlock Mechanism",
     "item.tfg.advanced_clockwork_mechanism": "Advanced Clockwork Mechanism",
@@ -543,10 +542,6 @@
     "item.tfg.parasiticide_capsule": "Parasiticide Capsule",
     "item.tfg.detox_capsule": "Detox Capsule",
     "item.tfg.nanofiltration_capsule": "Nanofiltration Capsule",
-
-    "item.tfg.slime.slime_ball.plant": "Plant Slime Ball",
-    "item.tfg.slime.slime_ball.glowberry": "Glowberry Slime Ball",
-    "item.tfg.slime.slime_ball.latex": "Latex Slime Ball",
 
     "item.tfg.chameleon_spray_can": "Chameleon Spray Can",
     "item.tfg.prismatic_paint_bucket": "Prismatic Paint Bucket",
