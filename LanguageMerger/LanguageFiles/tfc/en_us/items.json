@@ -1,9 +1,11 @@
 {
 	"item.tfc.bucket.salt_water": "Sea Water Bucket",
-    "item.tfc.powder.saltpeter": "Saltpeter Powder",
+	"item.tfc.powder.saltpeter": "Saltpeter Powder",
 	"item.tfc.powder.sulfur": "Sulfur Powder",
-    "item.tfc.jute_net": "Burlap Net",
-    "item.tfc.dirty_jute_net": "Dirty Burlap Net",
+	"item.tfc.jute_net": "Burlap Net",
+	"item.tfc.dirty_jute_net": "Dirty Burlap Net",
 	"item.tfc.powder.salt": "Table Salt",
-	"item.tfc.blubber": "Animal Fat"
+	"item.tfc.blubber": "Animal Fat",
+	"item.tfc.ceramic.spindle_head": "Ceramic Spindle Head",
+	"item.tfc.spindle": "Ceramic Spindle"
 }
