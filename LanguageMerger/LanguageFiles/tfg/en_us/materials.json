@@ -385,23 +385,23 @@
 	"material.tfg.lead_hydroxide": "Lead Hydroxide",
 	"material.tfg.molybdenum_trioxide": "Molybdenum Trioxide",
 
-	"material.tfg.lean_organic": "Lean Organic",
-	"material.tfg.raffinate": "Raffinate",
+	"material.tfg.lean_organic": "Lean Organic Stabilizer",
+	"material.tfg.raffinate": "Chromium Raffinate",
 	"material.tfg.ethylhexanol": "2-Ethylhexanol",
 	"material.tfg.ethylhexenal": "2-Ethylhexenal",
-	"material.tfg.loaded_mixture": "Loaded Mixture",
+	"material.tfg.loaded_mixture": "Loaded Chromium-Yttrium Mixture",
 	"material.tfg.enriched_garnet_leach_liquor": "Enriched Garnet Leach Liquor",
-	"material.tfg.organic_extractant": "Organic Extractant",
+	"material.tfg.organic_extractant": "Organic Stabilizer Extractant",
 	"material.tfg.garnet_leach_liquor": "Garnet Leach Liquor",
 	"material.tfg.sodium_aluminate_liquor": "Sodium Aluminate Liquor",
-	"material.tfg.cr_y_pregnant_liquor": "Cr-Y Pregnant Liquor",
-	"material.tfg.loaded_organic": "Loaded Organic",
+	"material.tfg.cr_y_pregnant_liquor": "Chromium-Yttrium Pregnant Liquor",
+	"material.tfg.loaded_organic": "Yttrium-Loaded Organic Stabilizer",
 	"material.tfg.depleted_garnet_liquor_a": "Depleted Garnet Liquor",
 	"material.tfg.garnet_secondary_liquor": "Garnet Secondary Liquor",
 	"material.tfg.depleted_garnet_liquor_b": "Spent Garnet Liquor",
 	"material.tfg.inert_slag": "Inert Slag",
 	"material.tfg.garnet_residual_slag": "Garnet Residual Slag",
-	"material.tfg.enriched_cr_y_residue": "Enriched Cr-Y Residue",
-	"material.tfg.cr_y_residue": "Cr-Y Residue"
+	"material.tfg.enriched_cr_y_residue": "Enriched Chromium-Yttrium Residue",
+	"material.tfg.cr_y_residue": "Chromium-Yttrium Residue"
 
 }
