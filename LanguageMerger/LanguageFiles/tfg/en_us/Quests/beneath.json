@@ -81,10 +81,10 @@
 	"quests.tfg_tips.unposter.subtitle": "Essential for every Fun Guy",
 	"quests.tfg_tips.unposter.desc": "The &cUnposter&r is used to grow mushrooms.\n\nYou use it similarly to a Composter, except instead of making compost, when a mushroom is within the Unposter's 11x11 range, it will consume its deposited items to multiply that mushroom in the area around it.\n\nNote that it only works on mushrooms you find naturally growing in the world. Once you pick a mushroom up, you can't replant it.",
 
-	"quests.tfg_tips.top_slimes.title": "Tameable Slimes",
+	"quests.tfg_tips.top_slimes.title": "Tameable Jellies",
 	"quests.tfg_tips.top_slimes.subtitle": "Isn't this just Slime Rancher?",
-	"quests.tfg_tips.top_slimes.desc.1": "In &4The Beneath&r you'll find the usual aggressive green slimes you're used to, but you might also find some new &efriendlier slimes&r in certain environments.\n\nThese can be tamed similar to animals on the surface, by feeding them &6mushrooms&r to raise their familiarity. Slimes are hermaphoditic, meaning any slime can breed with another of its same type. Each slime also has its own uses - some are used for producing items, while others provide more passive effects.\n\nRaise your slime's familiarity enough and they can also become your pets, letting you issue commands to them.",
-	"quests.tfg_tips.top_slimes.desc.2": "On the top layer, you can encounter &bIce Slimes&r and &aPlant Slimes&r.\n\n- &bIce Slimes&r provide a cooling effect to the player when nearby, but do not produce anything.\n\n- &aPlant Slimes&r produce Plant Slime Balls which can be crushed into Plant Balls for fertiliser.\n\nNote that unlike surface animals, slimes &lonly&r provide resources &dwhen a player feeds them&r, and &lonly&r when they're in &4The Beneath&r.",
+	"quests.tfg_tips.top_slimes.desc.1": "In &4The Beneath&r you'll find the usual aggressive green slimes you're used to, but you might also find some new &efriendlier jellies&r in certain environments.\n\nThese can be tamed similar to animals on the surface, by feeding them &6mushrooms&r to raise their familiarity. Jellies are hermaphoditic, meaning any slime can breed with another of its same type. Each slime also has its own uses - some are used for producing items, while others provide more passive effects.\n\nRaise your slime's familiarity enough and they can also become your pets, letting you issue commands to them.",
+	"quests.tfg_tips.top_slimes.desc.2": "On the top layer, you can encounter &bIce Jellies&r and &aPlant Jellies&r.\n\n- &bIce Jellies&r are in the Ice Caves biome and provide a cooling effect to the player when nearby, but do not produce anything.\n\n- &aPlant Jellies&r from the Muggy Bog biome produce Plant Slime Balls which can be crushed into Plant Balls for fertiliser.\n\nNote that unlike surface animals, jellies &lonly&r provide resources &dwhen a player feeds them&r, and &lonly&r when they're in &4The Beneath&r.",
 	"quests.tfg_tips.top_slimes.task.1": "Visit the Salt Caves biome",
 	"quests.tfg_tips.top_slimes.task.2": "Visit the Muggy Bog biome",
 	"quests.tfg_tips.top_slimes.task.3": "Find a friendly Slime",
@@ -96,9 +96,9 @@
 	"quests.tfg_tips.red_elk.title": "Red Elk",
 	"quests.tfg_tips.red_elk.desc": "&cRed Elk&r are one of the local wild animals in &4The Beneath&r. They can only be found on the middle and bottom layers, and are your only source of &cLavaproof Hides&r. You can also use these hides for other leather purposes.",
 
-	"quests.tfg_tips.middle_slimes.title": "More Tameable Slimes",
+	"quests.tfg_tips.middle_slimes.title": "More Tameable Jellies",
 	"quests.tfg_tips.middle_slimes.subtitle": "Super adaptable!",
-	"quests.tfg_tips.middle_slimes.desc": "The middle layer is home to some new kinds of slimes:\n\n- &6Glowberry Slimes&r can be found in the Lush Hollow biome, and produce a kind of slime that can be turned into &eSugar&r.\n\n- &3Spring Slimes&r are residents of the Geothermal Springs biome, and currently do nothing but may be useful in the future.\n\n- &aPlant Slimes&r also live in the Thorny Grove biome.",
+	"quests.tfg_tips.middle_slimes.desc": "The middle layer is home to some new kinds of jellies:\n\n- &6Glowberry Jellies&r can be found in the Lush Hollow biome, and produce a kind of slime that can be turned into &eSugar&r.\n\n- &3Spring Jellies&r are residents of the Geothermal Springs biome, and currently do nothing but may be useful in the future.\n\n- &aPlant Jellies&r also live in the Thorny Grove biome.",
 	"quests.tfg_tips.middle_slimes.task.1": "Visit the Lush Hollow biome",
 	"quests.tfg_tips.middle_slimes.task.2": "Visit the Geothermal Springs biome",
 	"quests.tfg_tips.middle_slimes.task.3": "Visit the Thorny Grove biome",
@@ -113,9 +113,9 @@
 	"quests.tfg_tips.bastions.desc": "&cBastions&r can be found in the bottom layer of &4The Beneath&r.\n\nThey're heavily fortified and guarded, but also full of tasty loot. Raid one if you're up for a challenge!",
 	"quests.tfg_tips.bastions.task": "Visit a Bastion",
 
-	"quests.tfg_tips.bottom_slimes.title": "Even More Tameable Slimes",
+	"quests.tfg_tips.bottom_slimes.title": "Even More Tameable Jellies",
 	"quests.tfg_tips.bottom_slimes.subtitle": "Exotic varieties!",
-	"quests.tfg_tips.bottom_slimes.desc.1": "Besides Magma Cubes, only one kind of friendly slime can survive in the bottom layer of &4The Beneath&r: &cLava Slimes&r, which provide a heating effect to the player when nearby.\n\nThis by itself sounds pretty useless, but Lava Slimes have a secret: they can be crossbred with &aPlant Slimes&r to produce &eLatex Slimes&r, which can be harvested for Latex Slime Balls for all your rubber needs.\n\nReminder that unlike surface animals, slimes &lonly&r provide resources &dwhen a player feeds them&r, and &lonly&r when they're in &4The Beneath&r.",
-	"quests.tfg_tips.bottom_slimes.desc.2": "Providing ambient heat is pretty redundant for a place that's already trying to cook you alive, but if you live in a cold climate, you can take one of these back up to the surface by &eSneak-Right Clicking&r while both of your hands are empty to pick them up, and then visit the Bedrock ceiling as usual.\n\nLava Slimes can appear in any of the biomes on the bottom layer.",
+	"quests.tfg_tips.bottom_slimes.desc.1": "Besides Magma Cubes, only one kind of friendly slime can survive in the bottom layer of &4The Beneath&r: &cLava Jellies&r, which provide a heating effect to the player when nearby.\n\nThis by itself sounds pretty useless, but Lava Jellies have a secret: they can be crossbred with &aPlant Jellies&r to produce &eLatex Jellies&r, which can be harvested for Latex Slime Balls for all your rubber needs.\n\nReminder that unlike surface animals, jellies &lonly&r provide resources &dwhen a player feeds them&r, and &lonly&r when they're in &4The Beneath&r.",
+	"quests.tfg_tips.bottom_slimes.desc.2": "Providing ambient heat is pretty redundant for a place that's already trying to cook you alive, but if you live in a cold climate, you can take one of these back up to the surface by &eSneak-Right Clicking&r while both of your hands are empty to pick them up, and then visit the Bedrock ceiling as usual.\n\nLava Jellies can appear in any of the biomes on the bottom layer.",
 	"quests.tfg_tips.bottom_slimes.task": "Find a friendly Slime"
 }
