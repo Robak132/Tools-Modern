@@ -114,6 +114,20 @@
     "quests.tfg_tips.nano_saber.subtitle": "26 Attack Damage when active!",
     "quests.tfg_tips.nano_saber.desc": "The &6Nano Saber&r is a powerful weapon you’ll be able to unlock once you reach late &5EV&r. Simply use &dShift + Right-Click&r to activate the &cbzzzzz mode&r.",
 
+    "quests.tfg_tips.nano_armor.title": "NanoMuscle™ Suite",
+    "quests.tfg_tips.nano_armor.subtitle": "Nanomachines, son!",
+    "quests.tfg_tips.nano_armor.desc": "A modern suit of armor for the modern era!\n\n- The Helmet comes with built-in night vision goggles.\n\n- The Chestplate doesn't do a lot on its own, but can be upgraded to have a jetpack.\n\n- The Leggings provide a movement speed bonus when worn, though it doesn't stack with other speed buffs like from alcohols or medicine.\n\n- The Boots completely protect you from fall damage and have a toggleable Step Assist mode.",
+
+    "quests.tfg_tips.adv_nano_armor.subtitle": "FREEEE BIIIIIIRD",
+    "quests.tfg_tips.adv_nano_armor.desc": "The advanced chestplate is &oalmost&r as good as creative-mode flight.\n\nIt's amazing for whizzing around your base, with its only downside being that it drains its internal battery fairly quickly.\n\nKeep a couple extra batteries on you, then they can charge up the suit by enabling Discharge mode on them with &aSneak-Right-Click&r.",
+
+    "quests.tfg_tips.quarktech.title": "QuarkTech™ Suite",
+    "quests.tfg_tips.quarktech.subtitle": "Look at what they need to mimic a fraction of our power",
+    "quests.tfg_tips.quarktech.desc": "This armor is a straight upgrade from the NanoMuscle™ armor and comes with even more perks on top:\n\n- The Helmet lets you breathe underwater and can automatically feed you with anything from your inventory (though it doesn't work with backpacks or lunch boxes).\n\n- The Chestplate prevents any sort of damage from hot or cold, and can be upgraded with a jetpack.\n\n- The Leggings let you sprint at supersonic speeds.\n\n- The Boots increase jump height and distance.",
+
+    "quests.tfg_tips.adv_quarktech.subtitle": "I'm f&kuck&ring invincible!",
+    "quests.tfg_tips.adv_quarktech.desc": "Congratulations on crafting the strongest armor in the game!",
+
     "quests.tfg_tips.magnets.title": "Item Magnets",
     "quests.tfg_tips.magnets.subtitle": "2010 called, it wants its juggalo meme back",
     "quests.tfg_tips.magnets.desc": "The &6Item Magnet&r is exactly what you'd expect — a magnet that pulls nearby &6items&r straight to you. &aVery useful&r. What more could you ask for?",
@@ -165,6 +179,7 @@
     "quests.tfg_tips.rubber_gloves.desc": "The &6Gloves&r will obviously protect you from &cskin contact hazards&r. You have two ways to make them: a &7longer and more involved path&r through &2TerrafirmaCraft&r, or a much &aeasier method&r using the &6High Pressure Steam Alloy Smelter&r.",
 
     "quests.tfg_tips.hazmat.title": "Hazardous Materials Suit",
+    "quests.tfg_tips.hazmat.subtitle": "Jesse! JESSE!",
     "quests.tfg_tips.hazmat.desc": "The &6Hazardous Materials Suit&r is the best way to protect yourself from &cany kind of harm&r. You’ll be able to craft it once you reach &bMV&r, and &ayou should definitely take the time to do so&r.",
 
     "quests.tfg_tips.armor.title": "GregTech Armor",
@@ -345,7 +360,7 @@
     "quests.tfg_tips.digger_helmet.desc.1": "The &dDigger Helmet&r is a helmet that will automatically light up your surroundings, hands-free! Useful if your main hand is occupied and your off-hand is equipped with a shield. It will require a bit of &6Glowstone&r to craft. Maybe you can reach to &4The Beneath&r for some early game access...",
     "quests.tfg_tips.digger_helmet.desc.2": "&l&3Important:&r&l The &dDigger Helmet&f itself works thanks to a specific setting of &cSodium Dynamic Lights&f, you'll have to toggle on &b\"Dynamic Entity Lighting\"&f for it to work properly",
     "quests.tfg_tips.digger_helmet.task": "Any Digger Helmet",
-    
+
     "quests.tfg_tips.grappling_hook.title": "Grappling Hook",
     "quests.tfg_tips.grappling_hook.subtitle": "This is going to end poorly",
     "quests.tfg_tips.grappling_hook.desc": "By combining 2 pieces of &aRope Coil&r and a &bWrought Iron Pickaxe Head&r, you can create a &dGrappling Hook!&r An ideal tool for scaling big mountains, exploring large caves and traversing the world. It contains an &eupgrade system&r that allows you to combine and modify your &dHook&r to your leisure.",
