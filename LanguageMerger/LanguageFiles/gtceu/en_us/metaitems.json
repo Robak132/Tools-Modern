@@ -2,17 +2,6 @@
 	"metaitem.dust.tooltip.purify": "Drop in Water to get Clean Dust",
 	"metaitem.crushed.tooltip.purify": "Drop in Water to get Purified Ore",
 
-	"gtceu.jei.bedrock_fluid.nether_natural_gas_deposit": "Beneath Natural Gas Deposit",
-
-	"gtceu.jei.bedrock_fluid.moon_helium": "Lunar Helium Deposit",
-	"gtceu.jei.bedrock_fluid.moon_helium_3": "Lunar Helium-3 Deposit",
-	"gtceu.jei.bedrock_fluid.moon_argon": "Lunar Argon Deposit",
-
-	"gtceu.jei.bedrock_fluid.semiheavy_ammoniacal_water": "Martian Semiheavy Ammoniacal Water Deposit",
-	"gtceu.jei.bedrock_fluid.liquid_carbon_dioxide": "Martian Liquid Carbon Dioxide Deposit",
-	"gtceu.jei.bedrock_fluid.heavy_ammoniacal_water": "Martian Heavy Ammoniacal Water Deposit",
-	"gtceu.jei.bedrock_fluid.liquid_ice": "Martian Ice Deposit",
-
 	"gtceu.recipe.category.ingot_molding": "Material Molding",
 
 	"gtceu.medical_condition.antidote.description.effect_removed": "Removes %s%% of the above conditions' effects",
