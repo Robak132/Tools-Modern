@@ -1551,5 +1551,8 @@
 	"block.tfg.groundcover.palm_husk": "Palm Husk",
 	"block.tfg.fruit_trees.potted_lavacado_sapling": "Potted Lavacado Sapling",
 	"block.tfg.fruit_trees.potted_magmango_sapling": "Potted Magmango Sapling",
-	"block.tfg.palm_tree.trunk": "Palm Tree Trunk"
+	"block.tfg.palm_tree.trunk": "Palm Tree Trunk",
+
+	"block.tfg.titanium_flywheel": "Titanium Steam Engine Flywheel",
+	"block.tfg.titanium_steam_engine": "Titanium Steam Engine"
 }
