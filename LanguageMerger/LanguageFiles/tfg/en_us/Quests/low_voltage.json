@@ -173,6 +173,7 @@
 	"quests.low_voltage.lv_ore_prospector.title": "This is Hacking",
 	"quests.low_voltage.lv_ore_prospector.subtitle": "Prospector NEO",
 	"quests.low_voltage.lv_ore_prospector.desc": "The Prospector is an amazing tool that'll help you find veins in no time.\n\nIts GUI is interactive. Right-clicking will scan for ores, displaying them on a dynamic map.\n\n&l&3Lore:&r&o Back in OUR day, the portable Prospector was locked to &dLuV&f. Kids these days have it easy.",
+	"quests.low_voltage.lv_ore_prospector.task": "Any prospector",
 
 	"quests.low_voltage.night_vision_goggles.subtitle": "See in the dark!",
 	"quests.low_voltage.night_vision_goggles.desc": "Charge them up and put them on your face to get a permanent Night Vision effect as long as the batteries last! You can toggle this effect with a keybind, set to &aO&r by default.",
