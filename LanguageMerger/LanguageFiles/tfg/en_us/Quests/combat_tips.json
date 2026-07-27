@@ -96,7 +96,7 @@
 
 	"quests.combat_tips.springfield_gun.title": "Springfield Rifle",
 	"quests.combat_tips.springfield_gun.subtitle": "Now this is a real gun!",
-	"quests.combat_tips.springfield_gun.description": "A proper rifle! This gun packs quite a bigger punch than the Flintlock Pistol.\n\nYour options for other guns are quite limited at this point ",
+	"quests.combat_tips.springfield_gun.description": "A proper rifle! This gun packs quite a bigger punch than the Flintlock Pistol.\n\nYour options for other guns are quite limited at this point, as the next one, a pistol, requires &7LV&r.",
 
 	"quests.combat_tips.any_ammo.title": "Acquire Ammo",
 	"quests.combat_tips.any_ammo.subtitle": "But where do I put them?",
@@ -192,5 +192,9 @@
 
 	"quests.combat_tips.javelin_throwing.title": "Javelin Throwing",
 	"quests.combat_tips.javelin_throwing.subtitle": "What's next? Discus? Shotput?",
-	"quests.combat_tips.javelin_throwing.desc": "If you hold a &2Rope Coil&r in your off-hand when throwing a Javelin, you'll be able to recall it back to you afterwards with &aRight-Click&r.\n\nIn addition, the Javelin will also be automatically recalled after 16 blocks.\n\nNever worry about losing your perfectly forged javelin that you threw off a cliff again!"
+	"quests.combat_tips.javelin_throwing.desc": "If you hold a &2Rope Coil&r in your off-hand when throwing a Javelin, you'll be able to recall it back to you afterwards with &aRight-Click&r.\n\nIn addition, the Javelin will also be automatically recalled after 16 blocks.\n\nNever worry about losing your perfectly forged javelin that you threw off a cliff again!",
+
+	"quests.combat_tips.quiver.title": "The Quiver",
+	"quests.combat_tips.quiver.subtitle": "Oh merry men!",
+	"quests.combat_tips.quiver.desc": "A quiver can hold up to 256 arrows or 8 javelins. Firing a bow or loading a crossbow will automatically pull arrows from the quiver, and throwing a javelin will pull another out of the quiver.\n\nThe quiver can also be equipped on your curios slots."
 }
