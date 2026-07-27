@@ -16,7 +16,7 @@
 
 	"quests.tfg_tips.beneath_clothes.title": "Temperature Management: Passive",
 	"quests.tfg_tips.beneath_clothes.subtitle": "Things to passively cool off",
-	"quests.tfg_tips.beneath_clothes.desc": "&bClothes&r also play an important role in cooling off. The easiest to craft before going to &4The Beneath&r are &dBurlap&r or &dLinen Clothes.&r\n\n&dSilk Clothes&r require &aString&r, which can be found in large quantities inside the beneath biome called the &cWebbed Lair.&r\n\nThere is a better alternative if you have access to &9Blue Steel&r however...",
+	"quests.tfg_tips.beneath_clothes.desc": "&bClothes&r also play an important role in cooling off. The easiest to craft before going to &4The Beneath&r are &dBurlap&r or &dLinen Clothes.&r\n\n&dSilk Clothes&r require &aSilk Thread&r, which can be found in large quantities inside the beneath biome called the &cWebbed Lair.&r\n\nThere is a better alternative if you have access to &9Blue Steel&r however...",
 
 	"quests.tfg_tips.rope_ladders.title": "Rope Ladders",
 	"quests.tfg_tips.rope_ladders.subtitle": "Going down!",

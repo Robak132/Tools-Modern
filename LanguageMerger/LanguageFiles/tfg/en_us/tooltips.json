@@ -320,5 +320,7 @@
     "tfg.tooltip.lifecycle.dormant": "§l§fDormant",
     "tfg.tooltip.lifecycle.growing": "§fGrowing...",
     "tfg.tooltip.palm_tree.cluster_harvest": "Harvest now for [%s] x%d",
-    "tfg.tooltip.palm_tree.head_harvest": "Break with an axe for 1-2 saplings."
+    "tfg.tooltip.palm_tree.head_harvest": "Break with an axe for 1-2 saplings.",
+    "tfg.tooltip.javelin.1": "Hold a §2Rope Coil§r in your off-hand to recall your Javelin with §aRight-Click§r.",
+    "tfg.tooltip.javelin.2": "The Javelin will also be recalled after 16 blocks."
 }

@@ -123,7 +123,7 @@
 
 	"quests.combat_tips.revolver_gun.title": "\"Torque\" Revolver",
 	"quests.combat_tips.revolver_gun.subtitle": "Yeehaw!",
-	"quests.combat_tips.revolver_gun.desc": "This revolver is the only new gun available at &7LV&r.\n\nWhile each shot is weaker than the Springfield Rifle, it makes up for it in being able to hold more than bullet at a time and fire them rapidly.",
+	"quests.combat_tips.revolver_gun.desc": "This revolver is the only new gun available at &7LV&r.\n\nWhile each shot is weaker than the Springfield Rifle, it makes up for it in being able to hold more than one bullet at a time and fire them rapidly.",
 
 	"quests.combat_tips.chainsaw.title": "Chainsaws",
 	"quests.combat_tips.chainsaw.subtitle": "Hockey mask not included",
@@ -188,5 +188,9 @@
 
 	"quests.combat_tips.trims.title": "Armor Trims",
 	"quests.combat_tips.trims.subtitle": "Add some flair to your fit",
-	"quests.combat_tips.trims.desc": "Almost everything you can wear can have an armor trim applied. Metal armor, clothes, even random stuff like the beekeeper outfit.\n\nCheck the &a#trimmable_armor&r tag to see what you can apply trims to, and the &a#trim_material&r tag for your color options.\n\nArmor trims can either be crafted in a Sewing Table or found as loot."
+	"quests.combat_tips.trims.desc": "Almost everything you can wear can have an armor trim applied. Metal armor, clothes, even random stuff like the beekeeper outfit.\n\nCheck the &a#trimmable_armor&r tag to see what you can apply trims to, and the &a#trim_material&r tag for your color options.\n\nArmor trims can either be crafted in a Sewing Table or found as loot.",
+
+	"quests.combat_tips.javelin_throwing.title": "Javelin Throwing",
+	"quests.combat_tips.javelin_throwing.subtitle": "What's next? Discus? Shotput?",
+	"quests.combat_tips.javelin_throwing.desc": "If you hold a &2Rope Coil&r in your off-hand when throwing a Javelin, you'll be able to recall it back to you afterwards with &aRight-Click&r.\n\nIn addition, the Javelin will also be automatically recalled after 16 blocks.\n\nNever worry about losing your perfectly forged javelin that you threw off a cliff again!"
 }
