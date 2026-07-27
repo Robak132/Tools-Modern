@@ -196,5 +196,5 @@
 
 	"quests.combat_tips.quiver.title": "The Quiver",
 	"quests.combat_tips.quiver.subtitle": "Oh merry men!",
-	"quests.combat_tips.quiver.desc": "A quiver can hold up to 256 arrows or 8 javelins. Firing a bow or loading a crossbow will automatically pull arrows from the quiver, and throwing a javelin will pull another out of the quiver.\n\nThe quiver can also be equipped on your curios slots."
+	"quests.combat_tips.quiver.desc": "A quiver can hold up to 256 arrows or 8 javelins.\n\nFiring a bow or loading a crossbow will automatically pull arrows from the quiver, and throwing a javelin will pull another out of the quiver. It will also automatically pick up any arrows or javelins.\n\nThe quiver can also be equipped on your curios slots."
 }
