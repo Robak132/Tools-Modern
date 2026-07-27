@@ -79,7 +79,7 @@
 	"quests.tfg_tips.beneath_tower.task": "Visit a Tower",
 
 	"quests.tfg_tips.unposter.subtitle": "Essential for every Fun Guy",
-	"quests.tfg_tips.unposter.desc": "The &cUnposter&r is used to grow mushrooms.\n\nYou use it similarly to a Composter, except instead of making compost, when a mushroom is within the Unposter's 11x11 range, it will consume its deposited items to multiply that mushroom in the area around it.\n\nNote that it only works on mushrooms you find naturally growing in the world. Once you pick a mushroom up, you can't replant it.",
+	"quests.tfg_tips.unposter.desc": "The &cUnposter&r is used to grow mushrooms and flowers.\n\nYou use it similarly to a Composter, except instead of making compost, when a valid block is within the Unposter's 11x11 range, it will consume its deposited items to multiply that block in the area around it.\n\nNote that it only works on mushrooms you find naturally growing in the world. Once you pick a mushroom up, you can't replant it.",
 
 	"quests.tfg_tips.top_slimes.title": "Tameable Jellies",
 	"quests.tfg_tips.top_slimes.subtitle": "Isn't this just Slime Rancher?",
