@@ -326,5 +326,7 @@
 
     "tfg.tooltip.unposter": "Consumes compostable items to duplicate nearby flowers and mushrooms.",
 
-    "tfg.tooltip.glassworking.complete": "☆ Complete! ☆"
+    "tfg.tooltip.glassworking.complete": "☆ Complete! ☆",
+
+    "tfg.tooltip.growth_time": "Growth Time"
 }
