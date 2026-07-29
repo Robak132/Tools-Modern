@@ -324,5 +324,7 @@
     "tfg.tooltip.javelin.1": "Hold a §6Rope Coil§r in your off-hand to recall your Javelin with §aRight-Click§r.",
     "tfg.tooltip.javelin.2": "The Javelin will also be recalled after 16 blocks.",
 
-    "tfg.tooltip.unposter": "Consumes compostable items to duplicate nearby flowers and mushrooms."
+    "tfg.tooltip.unposter": "Consumes compostable items to duplicate nearby flowers and mushrooms.",
+
+    "tfg.tooltip.glassworking.complete": "☆ Complete! ☆"
 }
