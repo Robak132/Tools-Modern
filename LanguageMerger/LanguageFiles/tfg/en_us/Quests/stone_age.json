@@ -269,5 +269,9 @@
 
     "quests.stone_age.snowshoes.title": "Snowshoes",
     "quests.stone_age.snowshoes.subtitle": "Nothing's gonna slow you down",
-    "quests.stone_age.snowshoes.desc": "Tired of snow making your movement sluggish?\n\nEquip these &aSnowshoes&r and you'll completely ignore any movement penalties from walking in snow. They prevent you falling into powdered snow too!"
+    "quests.stone_age.snowshoes.desc": "Tired of snow making your movement sluggish?\n\nEquip these &aSnowshoes&r and you'll completely ignore any movement penalties from walking in snow. They prevent you falling into powdered snow too!",
+
+    "quests.stone_age.barrelrack.title": "Barrel Rack",
+    "quests.stone_age.barrelrack.subtitle": "Now that's a nice rack!",
+    "quests.stone_age.barrelrack.desc": "The barrel rack can be used to stack barrels on top of eachother, allowing you to be more space-efficient! /n/nConsult your field guide for more specific information on how to use them."
 }
