@@ -1,0 +1,43 @@
+{
+    "id": "normal_amethyst",
+    "dimension": "earth",
+    "type": "tfc:disc_vein",
+    "config": {
+        "rarity": 230,
+        "density": 0.28,
+        "min_y": 10,
+        "max_y": 70,
+        "size": 15,
+        "height": 7
+    },
+    "ores": [
+        {
+            "ore": "red_garnet",
+            "weight": 10
+        },
+        {
+            "ore": "almandine",
+            "weight": 15
+        },
+        {
+            "ore": "amethyst",
+            "weight": 40
+        },
+        {
+            "ore": "opal",
+            "weight": 40
+        }
+    ],
+    "rocks": [
+        "granite",
+        "diorite",
+        "rhyolite",
+        "basalt",
+        "tuff"
+    ],
+    "indicator": {
+        "rarity": 18,
+        "depth": 70
+    },
+    "translations": []
+}
