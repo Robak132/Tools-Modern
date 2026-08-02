@@ -40,27 +40,5 @@
 	"indicator": {
 		"rarity": 20,
 		"depth": 15
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Gold, Electrotine, & Bauxite"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "金矿, 蓝石, 铝土矿"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Золото, Електротин і Боксит"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Золото, Электротин & Боксит"
-		},
-        {
-            "lang": "de_de",
-            "text": "Gold, Elektrotin, & Bauxit"
-        }
-	]
+	}
 }

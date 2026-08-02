@@ -38,11 +38,5 @@
     "indicator": {
         "rarity": 19,
         "depth": 70
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Garnierite, Nickel & Cobaltite"
-        }
-    ]
+    }
 }

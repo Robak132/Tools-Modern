@@ -40,12 +40,6 @@
         "marble"
     ],
     "name_suffix": "tfg.ore_vein_suffix.high",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Coal (High Elevation)"
-        }
-    ],
     "indicator": {
         "rarity": 12,
         "depth": 60

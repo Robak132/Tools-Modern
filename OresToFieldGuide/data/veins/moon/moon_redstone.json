@@ -35,31 +35,5 @@
 	],
 	"indicator": {
 		"depth": 50
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Redstone, Cinnabar, & Ruby"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Redstone, Cinábrio e Rubi"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Редстоун, Киноварь и Рубин"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Редстоун, Кіновар і Рубін"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "红石, 朱砂, 红宝石"
-		},
-        {
-            "lang": "de_de",
-            "text": "Redstone, Zinnober, & Rubin"
-        }
-	]
+	}
 }

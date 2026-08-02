@@ -34,11 +34,5 @@
     "indicator": {
         "rarity": 18,
         "depth": 70
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Quartzite & Barite"
-        }
-    ]
+    }
 }

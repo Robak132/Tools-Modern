@@ -43,31 +43,5 @@
 	"indicator": {
 		"rarity": 15,
 		"depth": 40
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Silver, Galena, & Lead"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Prata, Galena e Chumbo"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Серебро, Галена и Свинец"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Срібло, Гален і Свинець"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "银矿, 方铅矿, 铅矿"
-		},
-        {
-            "lang": "de_de",
-            "text": "Silber, Galenit, & Blei"
-        }
-	]
+	}
 }

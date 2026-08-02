@@ -29,11 +29,5 @@
         "green_sand",
         "pink_sand"
     ],
-    "indicator": {},
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Mineral Sand"
-        }
-    ]
+    "indicator": {}
 }

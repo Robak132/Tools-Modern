@@ -51,27 +51,5 @@
 	"indicator": {
 		"rarity": 20,
 		"depth": 15
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Trona, Talc, & Glauconite"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "皂石, 滑石, 海绿石矿砂"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Стеатит, Тальк і Глауконіт"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Трона, Тальк & Глаукониты"
-		},
-        {
-            "lang": "de_de",
-            "text": "Trona, Talk, & Glaukonit"
-        }
-	]
+	}
 }

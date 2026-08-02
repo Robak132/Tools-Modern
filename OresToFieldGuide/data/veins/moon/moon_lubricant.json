@@ -37,31 +37,5 @@
 		"moon_stone",
 		"moon_deepslate",
 		"basalt"
-	],
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Soapstone, Talc, & Trona"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Pedra-sabão, Talco e Trona"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Мыльный камень, Тальк и Трона"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Стеатит, Тальк і Трона"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "皂石, 滑石, 天然碱"
-		},
-        {
-            "lang": "de_de",
-            "text": "Speckstein, Talk, & Trona"
-        }
 	]
 }

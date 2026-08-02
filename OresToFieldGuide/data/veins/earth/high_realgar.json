@@ -51,12 +51,6 @@
         "marble"
     ],
     "name_suffix": "tfg.ore_vein_suffix.surface",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Chalcopyrite, Zeolite & Realgar"
-        }
-    ],
     "indicator": {
         "rarity": 12,
         "depth": 60

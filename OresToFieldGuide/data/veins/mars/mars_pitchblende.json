@@ -39,27 +39,5 @@
 	"indicator": {
 		"rarity": 20,
 		"depth": 15
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Pitchblende & Thorianite, & Hematite"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "沥青铀矿, 方钍石, 赤铁矿"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Настуран, Торіаніт і Гематит"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Уранит, Торий & Гематит"
-		},
-        {
-            "lang": "de_de",
-            "text": "Pechblende & Thorianit, & Hematit"
-        }
-	]
+	}
 }

@@ -33,11 +33,5 @@
     "indicator": {
         "rarity": 20,
         "depth": 70
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Coal"
-        }
-    ]
+    }
 }

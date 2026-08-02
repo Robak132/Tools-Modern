@@ -39,31 +39,5 @@
 		"depth": 60,
 		"underground_rarity": 1,
 		"underground_count": 1
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Tetrahedrite & Chalcocite"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Tetraedrita e Calcocita"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Тетраэдрит и Халькозин"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Тетраедрит і Халькоцит"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "黝铜矿, 辉铜矿"
-		},
-        {
-            "lang": "de_de",
-            "text": "Tetrahedrit & Chalkosin"
-        }
-	]
+	}
 }

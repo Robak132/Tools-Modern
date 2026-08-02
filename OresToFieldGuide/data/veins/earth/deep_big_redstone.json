@@ -34,11 +34,5 @@
         "rarity": 22,
         "depth": 15
     },
-    "name_suffix": "tfg.ore_vein_suffix.large",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Redstone, Ruby & Cinnabar (Large)"
-        }
-    ]
+    "name_suffix": "tfg.ore_vein_suffix.large"
 }

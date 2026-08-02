@@ -40,31 +40,5 @@
 	],
 	"indicator": {
 		"depth": 50
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Kyanite, Mica, & Bauxite"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Cianita, Mica e Bauxita"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Ционит, Слюда и Боксит"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Кіаніт, Слюда та Боксити"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "蓝晶石, 云母, 铝土矿"
-		},
-        {
-            "lang": "de_de",
-            "text": "Kyanit, Glimmer, & Bauxit"
-        }
-	]
+	}
 }

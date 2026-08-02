@@ -40,12 +40,6 @@
         "marble"
     ],
     "name_suffix": "tfg.ore_vein_suffix.volcanic",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Sulfur (Volcanic)"
-        }
-    ],
     "indicator": {
         "rarity": 12,
         "depth": 60

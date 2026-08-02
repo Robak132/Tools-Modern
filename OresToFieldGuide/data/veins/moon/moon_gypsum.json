@@ -37,31 +37,5 @@
 		"moon_stone",
 		"glacio_stone",
 		"moon_deepslate"
-	],
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Gypsum & Calcite"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Gipsita e Calcita"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Гипс и Кальцит"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Гіпс і Кальцит"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "石膏, 方解石"
-		},
-        {
-            "lang": "de_de",
-            "text": "Gips & Kalzit"
-        }
 	]
 }

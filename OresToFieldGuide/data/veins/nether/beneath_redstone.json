@@ -43,11 +43,5 @@
     "indicator": {
         "rarity": 25,
         "depth": 1
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Redstone, Cinnabar, Nether Quartz & Ruby"
-        }
-    ]
+    }
 }

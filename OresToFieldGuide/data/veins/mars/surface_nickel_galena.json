@@ -54,27 +54,5 @@
 		"depth": 40,
 		"underground_rarity": 1,
 		"underground_count": 1
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Sphalerite & Galena"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "闪锌矿, 方铅矿"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Сфалерит і Галеніт"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Сфалерит & Галена"
-		},
-        {
-            "lang": "de_de",
-            "text": "Sphalerit & Galenit"
-        }
-	]
+	}
 }

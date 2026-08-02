@@ -40,12 +40,6 @@
         "gneiss",
         "marble"
     ],
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Bismuth"
-        }
-    ],
     "indicator": {
         "rarity": 12,
         "depth": 35

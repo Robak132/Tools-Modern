@@ -35,11 +35,5 @@
     "indicator": {
         "rarity": 18,
         "depth": 1
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Cassiterite & Tin"
-        }
-    ]
+    }
 }

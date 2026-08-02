@@ -58,11 +58,5 @@
             }
         ]
     },
-    "name_suffix": "tfg.ore_vein_suffix.deep",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Graphite & Diamond"
-        }
-    ]
+    "name_suffix": "tfg.ore_vein_suffix.deep"
 }

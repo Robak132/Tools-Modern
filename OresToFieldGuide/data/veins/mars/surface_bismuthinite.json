@@ -51,31 +51,5 @@
 		"depth": 40,
 		"underground_rarity": 1,
 		"underground_count": 1
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Bismuth"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Bismuto"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Висмут"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Бісмут"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "辉铋矿"
-		},
-        {
-            "lang": "de_de",
-            "text": "Bismut"
-        }
-	]
+	}
 }

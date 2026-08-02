@@ -41,11 +41,5 @@
     "indicator": {
         "rarity": 16,
         "depth": 70
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Chalcopyrite, Pyrite & Copper"
-        }
-    ]
+    }
 }

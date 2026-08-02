@@ -30,11 +30,5 @@
         "white_sand",
         "yellow_sand"
     ],
-    "indicator": {},
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Mineral Sand"
-        }
-    ]
+    "indicator": {}
 }

@@ -45,31 +45,5 @@
 	"indicator": {
 		"rarity": 15,
 		"depth": 40
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Tetrahedrite (Normal)"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Tetraedrita (Normal)"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Тетраэдрит (обычный)"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Тетраедрит (Звичайний)"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "黝铜矿 (普通)"
-		},
-        {
-            "lang": "de_de",
-            "text": "Tetrahedrit (Normal)"
-        }
-	]
+	}
 }

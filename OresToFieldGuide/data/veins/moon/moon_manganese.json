@@ -34,31 +34,5 @@
 		"dacite",
 		"basalt",
 		"moon_deepslate"
-	],
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Manganese & Tantalum"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Manganês e Tântalo"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Марганец и Тантал"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Марганець і Тантал"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "锰矿, 钽矿"
-		},
-        {
-            "lang": "de_de",
-            "text": "Mangan & Tantalum"
-        }
 	]
 }

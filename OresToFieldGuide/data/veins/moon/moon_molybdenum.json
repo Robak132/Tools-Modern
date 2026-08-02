@@ -37,31 +37,5 @@
 	],
 	"indicator": {
 		"depth": 50
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Wulfenite & Molybdenite"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Wulfenita e Molibdenita"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Вульфенит & Молибденит"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Вульфеніт і Молібденіт"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "钼铅矿, 辉钼矿"
-		},
-        {
-            "lang": "de_de",
-            "text": "Wulfenit & Molybdänit"
-        }
-	]
+	}
 }

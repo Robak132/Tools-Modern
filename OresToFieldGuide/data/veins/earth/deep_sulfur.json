@@ -45,11 +45,5 @@
         "rarity": 25,
         "depth": 5
     },
-    "name_suffix": "tfg.ore_vein_suffix.deep",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Sulfur (Deep)"
-        }
-    ]
+    "name_suffix": "tfg.ore_vein_suffix.deep"
 }

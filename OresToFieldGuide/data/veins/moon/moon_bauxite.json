@@ -35,31 +35,5 @@
 	],
 	"indicator": {
 		"depth": 50
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Bauxite & Ilmenite"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Bauxita e Ilmenita"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Боксит и Ильменит"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Боксит і Ільменіт"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "铝土矿, 钛铁矿"
-		},
-        {
-            "lang": "de_de",
-            "text": "Bauxit & Ilmenit"
-        }
-	]
+	}
 }

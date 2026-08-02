@@ -34,31 +34,5 @@
 		"dolomite",
 		"chert",
 		"chalk"
-	],
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Lapis, Lazurite, & Sodalite"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Lápis-lazúri, Lazurita e Sodalita"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Лазурит, Лазуритит и Содалит"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Лазур, Лазурит та Содаліт"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "青金石, 蓝金石, 方钠石"
-		},
-        {
-            "lang": "de_de",
-            "text": "Lapis, Lasurit, & Sodalith"
-        }
 	]
 }

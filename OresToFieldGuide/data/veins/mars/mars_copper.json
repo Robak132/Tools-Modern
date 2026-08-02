@@ -43,31 +43,5 @@
 	"indicator": {
 		"rarity": 15,
 		"depth": 40
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Copper & Chalcopyrite"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Cobre e Calcopirita"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Медь и Халькопирит"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Мідь та Халькопірит"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "铜矿, 黄铜矿"
-		},
-        {
-            "lang": "de_de",
-            "text": "Kupfer & Chalkopyrit"
-        }
-	]
+	}
 }

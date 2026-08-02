@@ -37,31 +37,5 @@
 	"indicator": {
 		"rarity": 12,
 		"depth": 60
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Gold & Magnetite"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Ouro e Magnetita"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Золото и Магнетит"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Золото і Магнетит"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "金矿, 磁铁矿"
-		},
-        {
-            "lang": "de_de",
-            "text": "Gold & Magnetit"
-        }
-	]
+	}
 }

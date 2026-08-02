@@ -40,11 +40,5 @@
         "rarity": 22,
         "depth": 1
     },
-    "name_suffix": "tfg.ore_vein_suffix.volcanic",
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Graphite & Diamond"
-        }
-    ]
+    "name_suffix": "tfg.ore_vein_suffix.volcanic"
 }

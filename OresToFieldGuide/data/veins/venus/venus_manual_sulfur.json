@@ -45,10 +45,7 @@
 			"info": "Only appears in the $(thing)Sulfuric Ravines$() biome.",
 			"emi": "Only in Sulfuric Ravine."
 		},
-		{
-			"lang": "pt_br",
-			"text": "Enxofre e Pirita"
-		},
+
 		{
 			"lang": "ru_ru",
 			"text": "Сера и Пирит",

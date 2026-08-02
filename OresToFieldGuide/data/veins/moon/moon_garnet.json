@@ -34,31 +34,5 @@
 		"rhyolite",
 		"basalt",
 		"andesite"
-	],
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Amethyst, Opal, & Garnet"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Ametista, Opala e Granada"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Аметист, Опал и гранат"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Аметист, Опал і Гранат"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "紫水晶, 蛋白石, 石榴石"
-		},
-        {
-            "lang": "de_de",
-            "text": "Amethyst, Opal, & Granat"
-        }
 	]
 }

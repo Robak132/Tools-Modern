@@ -48,27 +48,5 @@
 	"indicator": {
 		"rarity": 20,
 		"depth": 15
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Almandine & Sapphire"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "铁铝榴石, 蓝宝石"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Альмандин і Сапфір"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Альмандин & Сапфир"
-		},
-        {
-            "lang": "de_de",
-            "text": "Almandin & Saphir"
-        }
-	]
+	}
 }

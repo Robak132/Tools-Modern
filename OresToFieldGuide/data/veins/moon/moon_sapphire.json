@@ -39,31 +39,5 @@
 	],
 	"indicator": {
 		"depth": 50
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Sapphire & Almandine"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Safira e Almandina"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Сапфир и Альмандин"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Сапфір і Альмадін"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "蓝宝石, 铁铝榴石"
-		},
-        {
-            "lang": "de_de",
-            "text": "Saphir & Almandin"
-        }
-	]
+	}
 }

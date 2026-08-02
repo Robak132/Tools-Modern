@@ -38,11 +38,5 @@
     "indicator": {
         "rarity": 20,
         "depth": 1
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Tetrahedrite, Stibnite & Silver"
-        }
-    ]
+    }
 }

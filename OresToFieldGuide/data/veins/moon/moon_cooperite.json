@@ -35,31 +35,5 @@
 	],
 	"indicator": {
 		"depth": 50
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Cooperite & Bornite"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Cooperita e Bornita"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Куперит и Борнит"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Куперит і Борніт"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "硫铂矿, 斑铜矿"
-		},
-        {
-            "lang": "de_de",
-            "text": "Cooperit & Bornit"
-        }
-	]
+	}
 }

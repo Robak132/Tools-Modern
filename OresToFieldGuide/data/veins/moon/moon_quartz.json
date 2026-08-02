@@ -42,31 +42,5 @@
 	],
 	"indicator": {
 		"depth": 80
-	},
-	"translations": [
-		{
-			"lang": "en_us",
-			"text": "Certus Quartz"
-		},
-		{
-			"lang": "pt_br",
-			"text": "Quartzo Certus"
-		},
-		{
-			"lang": "ru_ru",
-			"text": "Истинный кварц"
-		},
-		{
-			"lang": "uk_ua",
-			"text": "Істинний Кварц"
-		},
-		{
-			"lang": "zh_cn",
-			"text": "赛特斯石英矿"
-		},
-        {
-            "lang": "de_de",
-            "text": "Certus Quarz"
-        }
-	]
+	}
 }

@@ -48,11 +48,5 @@
     "indicator": {
         "rarity": 20,
         "depth": 1
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Nether Quartz, Quartzite, Barite & Zeolite"
-        }
-    ]
+    }
 }

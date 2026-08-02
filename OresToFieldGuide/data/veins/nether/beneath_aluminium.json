@@ -44,11 +44,5 @@
     "indicator": {
         "rarity": 22,
         "depth": 1
-    },
-    "translations": [
-        {
-            "lang": "en_us",
-            "text": "Alunite, Zeolite & Barite"
-        }
-    ]
+    }
 }
