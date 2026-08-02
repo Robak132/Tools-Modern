@@ -554,9 +554,9 @@
 	"block.tfg.rock.polished_glauberite_wall": "Polished Glauberite Wall",
 
 	"block.tfg.gilsonite": "Gilsonite",
-	"block.tfg.gilsonite_slab": "Gilsonite Slab",
-	"block.tfg.gilsonite_stairs": "Gilsonite Stairs",
-	"block.tfg.gilsonite_wall": "Gilsonite Wall",
+	"block.tfg.rock.gilsonite_slab": "Gilsonite Slab",
+	"block.tfg.rock.gilsonite_stairs": "Gilsonite Stairs",
+	"block.tfg.rock.gilsonite_wall": "Gilsonite Wall",
 	"block.tfg.rock.gilsonite_bricks": "Gilsonite Bricks",
 	"block.tfg.rock.gilsonite_bricks_slab": "Gilsonite Brick Slab",
 	"block.tfg.rock.gilsonite_bricks_stairs": "Gilsonite Brick Stairs",
