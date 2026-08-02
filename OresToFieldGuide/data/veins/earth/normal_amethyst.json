@@ -12,20 +12,20 @@
     },
     "ores": [
         {
-            "ore": "red_garnet",
-            "weight": 10
-        },
-        {
-            "ore": "almandine",
-            "weight": 15
-        },
-        {
             "ore": "amethyst",
             "weight": 40
         },
         {
             "ore": "opal",
             "weight": 40
+        },
+        {
+            "ore": "red_garnet",
+            "weight": 10
+        },
+        {
+            "ore": "almandine",
+            "weight": 15
         }
     ],
     "rocks": [
