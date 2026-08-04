@@ -24,5 +24,11 @@
 	"entity.tfg.lemming": "Lemming",
 	"entity.tfg.fox": "Fox",
 	"entity.tfg.fox.female": "Vixen",
-	"entity.tfg.fox.male": "Fox"
+	"entity.tfg.fox.male": "Fox",
+	"entity.tfg.bactrian_camel": "Bactrian Camel",
+	"entity.tfg.bactrian_camel.female": "Bactrian Camel",
+	"entity.tfg.bactrian_camel.male": "Bactrian Camel",
+	"entity.tfg.dromedary_camel": "Dromedary Camel",
+	"entity.tfg.dromedary_camel.female": "Dromedary Camel",
+	"entity.tfg.dromedary_camel.male": "Dromedary Camel"
 }
