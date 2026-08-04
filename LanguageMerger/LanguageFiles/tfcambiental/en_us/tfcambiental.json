@@ -4,7 +4,7 @@
     "item.tfcambiental.silk_pants": "Silk Pants",
     "item.tfcambiental.straw_hat": "Straw Hat",
     "item.tfcambiental.burlap_shoes": "Burlap Shoes",
-    "tfcambiental.tooltip.warmth": "Warmth: %s",
+	"tfcambiental.tooltip.warmth": "Warmth: %s°C",
     "tfcambiental.message.is_inside": "You are inside",
     "death.attack.heatstroke": "%1$s died of heatstroke.",
     "item.tfcambiental.insulated_leather_tunic": "Insulated Leather Tunic",
