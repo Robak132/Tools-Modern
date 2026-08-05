@@ -56,7 +56,7 @@
 
 	"quests.steam_age.metal_casing.title": "Metal Casings",
 	"quests.steam_age.metal_casing.subtitle": "Primitive Machine Hull?",
-	"quests.steam_age.metal_casing.desc": "These are the basis of most of the simple machines you can build with Create. Check JEI for all the different things you can craft with this, including Gearboxes and other ways to control your stress units.\n\nNew to Create? There's many tutorials online about different kinds of contraptions you can build, and most of them will still work in TFG too! (Except anything involving cobble generators)",
+	"quests.steam_age.metal_casing.desc": "These are the basis of most of the simple machines you can build with Create. Check EMI for all the different things you can craft with this, including Gearboxes and other ways to control your stress units.\n\nNew to Create? There's many tutorials online about different kinds of contraptions you can build, and most of them will still work in TFG too! (Except anything involving cobble generators)",
 
 	"quests.steam_age.mechanical_harvester.title": "Mechanical Harvester",
 	"quests.steam_age.mechanical_harvester.subtitle": "Robotic Cherrypicking",
@@ -88,7 +88,7 @@
 
 	"quests.steam_age.steel_millstone.title": "Steel Millstone",
 	"quests.steam_age.steel_millstone.subtitle": "A worthwhile upgrade",
-	"quests.steam_age.steel_millstone.desc": "With a much higher kinetic capacity, the steel millstone is a worthwhile upgrade over your basic one, letting you spin it much faster for quicker crushing. A good upgrade for all the different new ores you'll be getting soon!\n\nAgain though, it only outputs items in the first slot in JEI.",
+	"quests.steam_age.steel_millstone.desc": "With a much higher kinetic capacity, the steel millstone is a worthwhile upgrade over your basic one, letting you spin it much faster for quicker crushing. A good upgrade for all the different new ores you'll be getting soon!\n\nAgain though, it only outputs items in the first slot in EMI.",
 
 	"quests.steam_age.steel_pump.title": "Fluid Handling",
 	"quests.steam_age.steel_pump.subtitle": "Delicious pipe spaghetti",
@@ -119,8 +119,8 @@
 
 	"quests.steam_age.steam_bloomery.title": "Steam Bloomery",
 	"quests.steam_age.steam_bloomery.subtitle": "The Bloomery's uncle",
-	"quests.steam_age.steam_bloomery.desc.1": "You're always going to need a lot of Wrought Iron, so why not automate your Bloomery? The next closest way to automate wrought iron is way off in LV.\n\nThe &3Steam Bloomery&r is a new multiblock that'll automate your old TFC bloomery, and do it faster too!\n\nLike with the Coke Oven, you can press the JEI 'Uses' key (defaults to \"U\") to show the multiblock preview tab. Click on individual blocks to see what's valid in each location.",
-	"quests.steam_age.steam_bloomery.desc.2": "The recipes actually take 50%% longer than what you'll find in JEI, due to how steam multiblocks work in gregtech.",
+	"quests.steam_age.steam_bloomery.desc.1": "You're always going to need a lot of Wrought Iron, so why not automate your Bloomery? The next closest way to automate wrought iron is way off in LV.\n\nThe &3Steam Bloomery&r is a new multiblock that'll automate your old TFC bloomery, and do it faster too!\n\nLike with the Coke Oven, you can press the EMI 'Uses' key (defaults to \"U\") to show the multiblock preview tab. Click on individual blocks to see what's valid in each location.",
+	"quests.steam_age.steam_bloomery.desc.2": "The recipes actually take 50%% longer than what you'll find in EMI, due to how steam multiblocks work in gregtech.",
 
 	"quests.steam_age.steam_furnace.title": "Steam Furnace",
 	"quests.steam_age.steam_furnace.subtitle": "The Steam Furnace furnaces...",
@@ -149,7 +149,7 @@
 
 	"quests.steam_age.alloy_smelter.title": "Steam Alloy Smelter",
 	"quests.steam_age.alloy_smelter.subtitle": "The Alloy Smelter makes alloys...",
-	"quests.steam_age.alloy_smelter.desc": "The &bAlloy Smelter&r is used for, well, alloys. You'll want it for the efficient &6Bronze&r recipe, and for &4Red Alloy&r in the near future.\n\nIt can also weld High Carbon ingots together at a much more efficient rate!\n\nOut of all the &6Steam Age&r machines, this is the most steam-hungry. If you ever find yourself running out of steam, give your machine a &alove-tap&r with &dany Soft Mallet&r to momentarily pause it.",
+	"quests.steam_age.alloy_smelter.desc": "The &bAlloy Smelter&r is used for, well, alloys. You'll want it for the effortless &6Bronze&r, &6Brass&r and &4Red Alloy&r.\n\nIt can also weld High Carbon ingots together at a much more efficient rate!\n\nOut of all the &6Steam Age&r machines, this is the most steam-hungry. If you ever find yourself running out of steam, give your machine a &alove-tap&r with &dany Soft Mallet&r to momentarily pause it.",
 
 	"quests.steam_age.compressor.title": "Steam Compressor",
 	"quests.steam_age.compressor.subtitle": "The Steam Compressor compresses...",
@@ -189,7 +189,7 @@
 
 	"quests.steam_age.centrifuge.title": "Mechanical Centrifuge",
 	"quests.steam_age.centrifuge.subtitle": "A World Revolving",
-	"quests.steam_age.centrifuge.desc": "Ore processing will always be an important part of this modpack, and this machine is another (optional) part of that. By following a different route of ore processing steps (check the Ore Processing Diagram tab in JEI), you can use this centrifuge to get some bonus byproducts out of your ores! The next upgrade to your ores won't be until the LV Thermal Centrifuge, so whether or not this is a worthwhile investment is up to you.",
+	"quests.steam_age.centrifuge.desc": "Ore processing will always be an important part of this modpack, and this machine is another (optional) part of that. By following a different route of ore processing steps (check the Ore Processing Diagram tab in EMI), you can use this centrifuge to get some bonus byproducts out of your ores! The next upgrade to your ores won't be until the LV Thermal Centrifuge, so whether or not this is a worthwhile investment is up to you.",
 
 	"quests.steam_age.steam_engine.title": "Steam Engine",
 	"quests.steam_age.steam_engine.subtitle": "Time for some real steam power",
@@ -213,7 +213,7 @@
 
 	"quests.steam_age.organization.title": "Staying Organized",
 	"quests.steam_age.organization.subtitle": "You're already in the first circle of microcrafting hell",
-	"quests.steam_age.organization.desc": "Struggling to keep up with all the recipes and items you need? Here's a couple options which may help:\n\n&3Clipboard&r: This handy item is a portable to-do list, letting you check off items as you like.\n\n&3Crafting Blueprint&r: Keeps track of frequent recipes, letting you craft batches without having to find the recipe in JEI.\n\n&3JEI's Bookmarks&r: You can press the \"Add/Remove Bookmark\" key (default \"A\") when hovering over an item in JEI to bookmark it. You can also bookmark whole recipes by pressing this key on the output!",
+	"quests.steam_age.organization.desc": "Struggling to keep up with all the recipes and items you need? Here's a couple options which may help:\n\n&3Clipboard&r: This handy item is a portable to-do list, letting you check off items as you like.\n\n&3Crafting Blueprint&r: Keeps track of frequent recipes, letting you craft batches without having to find the recipe in EMI.\n\n&3JEI's Bookmarks&r: You can press the \"Add/Remove Bookmark\" key (default \"A\") when hovering over an item in EMI to bookmark it. You can also bookmark whole recipes by pressing this key on the output!",
 
 	"quests.steam_age.resin_boards.title": "Resin-Coated Boards",
 	"quests.steam_age.resin_boards.subtitle": "I guess you could say we're... bored of LaTeX?",
