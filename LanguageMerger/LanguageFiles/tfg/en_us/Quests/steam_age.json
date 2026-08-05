@@ -149,7 +149,7 @@
 
 	"quests.steam_age.alloy_smelter.title": "Steam Alloy Smelter",
 	"quests.steam_age.alloy_smelter.subtitle": "The Alloy Smelter makes alloys...",
-	"quests.steam_age.alloy_smelter.desc": "The &bAlloy Smelter&r is used for, well, alloys. You'll want it for the effortlessly make &6Bronze&r, &6Brass&r and also &4Red Alloy&r in the near future.\n\nIt can also weld High Carbon ingots together at a much more efficient rate!\n\nOut of all the &6Steam Age&r machines, this is the most steam-hungry. If you ever find yourself running out of steam, give your machine a &alove-tap&r with &dany Soft Mallet&r to momentarily pause it.",
+	"quests.steam_age.alloy_smelter.desc": "The &bAlloy Smelter&r is used for, well, alloys. You'll want it for the effortless &6Bronze&r, &6Brass&r and &4Red Alloy&r.\n\nIt can also weld High Carbon ingots together at a much more efficient rate!\n\nOut of all the &6Steam Age&r machines, this is the most steam-hungry. If you ever find yourself running out of steam, give your machine a &alove-tap&r with &dany Soft Mallet&r to momentarily pause it.",
 
 	"quests.steam_age.compressor.title": "Steam Compressor",
 	"quests.steam_age.compressor.subtitle": "The Steam Compressor compresses...",
