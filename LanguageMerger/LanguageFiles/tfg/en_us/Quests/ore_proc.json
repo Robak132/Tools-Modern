@@ -91,7 +91,7 @@
 
     "quests.ore_proc.sodium_ores.title": "Sodium Persulfate bathing examples",
     "quests.ore_proc.sodium_ores.subtitle": "A useful time saver",
-    "quests.ore_proc.sodium_ores.desc": "Here's some recommendations for Sodium Persulfate bathing:\n\n- &6Crushed Aluminium&r: for &dRutile&r (Titanium)\n\n- &6Crushed Bauxite&r: &dGallium&r\n\n- &6Crushed Cobalt&r: &dCobaltite&r for &dArsenic&r",
+    "quests.ore_proc.sodium_ores.desc": "Here's some recommendations for Sodium Persulfate bathing:\n\n- &6Crushed Bauxite&r: &dGallium&r\n\n- &6Crushed Cobalt&r: &dCobaltite&r for &dArsenic&r\n\n- &6Crushed Desh&r: for &Rhenium&r",
 
     "quests.ore_proc.ore_washer.title": "Bathe them in Water",
     "quests.ore_proc.ore_washer.subtitle": "The standard option for most ores",
@@ -151,7 +151,7 @@
 
     "quests.ore_proc.bauxite.title": "The Bauxite Line",
     "quests.ore_proc.bauxite.subtitle": "New to modern GregTech versions!",
-    "quests.ore_proc.bauxite.desc": "You &ocould&r just electrolyze all your Bauxite dust to get a measly 6 Aluminium and 1 Rutile per 15 Bauxite... Or you could try out the &6Bauxite Line&r!\n\nThis new processing line returns about 2x as much &bAluminium&r and 3x as much &4Rutile&r per Bauxite, while also giving you a bunch of Gallium, Iron, Neodymium, and Chromium for free!",
+    "quests.ore_proc.bauxite.desc": "You &ocould&r just electrolyze all your Bauxite dust to get a measly 6 Aluminium per 15 Bauxite... Or you could try out the &6Bauxite Line&r!\n\nThis new processing line returns 2.5x as much &bAluminium&r while also giving you a bunch of Rutile, Gallium, Iron, Neodymium, and Chromium for free!",
 
     "quests.ore_proc.chromium.title": "Chromium Lines",
     "quests.ore_proc.chromium.subtitle": "Chrome me up, choom!",
