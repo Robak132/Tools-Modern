@@ -91,7 +91,7 @@
 
     "quests.ore_proc.sodium_ores.title": "Sodium Persulfate bathing examples",
     "quests.ore_proc.sodium_ores.subtitle": "A useful time saver",
-    "quests.ore_proc.sodium_ores.desc": "Here's some recommendations for Sodium Persulfate bathing:\n\n- &6Crushed Bauxite&r: &dGallium&r\n\n- &6Crushed Cobalt&r: &dCobaltite&r for &dArsenic&r\n\n- &6Crushed Desh&r: for &Rhenium&r",
+    "quests.ore_proc.sodium_ores.desc": "Here's some recommendations for Sodium Persulfate bathing:\n\n- &6Crushed Bauxite&r: &dGallium&r\n\n- &6Crushed Cobalt&r: &dCobaltite&r for &dArsenic&r\n\n- &6Crushed Desh&r: for &dRhenium&r",
 
     "quests.ore_proc.ore_washer.title": "Bathe them in Water",
     "quests.ore_proc.ore_washer.subtitle": "The standard option for most ores",
