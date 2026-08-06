@@ -17,11 +17,11 @@
             "block_weight": 1
         },
         {
-            "ore": "lithium",
+            "ore": "anthracite",
             "weight": 30
         },
         {
-            "ore": "rock_salt",
+            "ore": "alunite",
             "weight": 20
         }
     ],
