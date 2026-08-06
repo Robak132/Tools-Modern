@@ -117,7 +117,7 @@
 
     "quests.extreme_voltage.ammonium_formate.title": "Ammonium Formate",
     "quests.extreme_voltage.ammonium_formate.subtitle": "Always keep a backlog!",
-    "quests.extreme_voltage.ammonium_formate.desc": "Being able to make infinite &eAmmonium Formate&r is mandatory to ensure a constant energy production, as you won’t be able to process &bRadioactive Steam&r into High Pressure Steam without it. It's not very hard, though!\n\nFirst, to make &eFormic Acid&r, simply combine CO₂ that you can get from Mars Air with Water from an Aqueous Accumulator.\n\nThen, for &eAmmonia&r, you can simply electrolyze the &eAmmonium Chloride Dust&r you got from centrifuging (Semi) Heavy Ammoniacal Water.\n\nAs you will get a surplus of &bOxygen&r and &bHydrochloric Acid&r, make sure to void these fluids above a threshold so they don’t clog your &eAmmonium Formate&r production.",
+    "quests.extreme_voltage.ammonium_formate.desc": "Being able to make infinite &eAmmonium Formate&r is mandatory to ensure a constant energy production, as you won't be able to create &dRadon&r or &cPlutonium&r without it. It's not very hard, though!\n\nFirst, to make &eFormic Acid&r, simply combine CO₂ that you can get from Mars Air with Water from an Aqueous Accumulator.\n\nThen, for &eAmmonia&r, you can simply electrolyze the &eAmmonium Chloride Dust&r you got from centrifuging (Semi) Heavy Ammoniacal Water.\n\nAs you will get a surplus of &bOxygen&r and &bHydrochloric Acid&r, make sure to void these fluids above a threshold so they don’t clog your &eAmmonium Formate&r production.",
 
     "quests.extreme_voltage.nuclear_residue_dust.title": "Nuclear Residue Dust",
     "quests.extreme_voltage.nuclear_residue_dust.subtitle": "Oh, this is where Radon comes from",
@@ -136,7 +136,7 @@
 
     "quests.extreme_voltage.plutonium_rod.subtitle": "Once upon a time, I had power issues",
     "quests.extreme_voltage.plutonium_rod.desc.1": "Let’s be clear: the &dPlutonium Fuel Rod&r may be a real bother to craft, but it’s an absolute &abeast of energy&r. It outputs nearly &e4× more High Pressure Steam&r than the Uranium Rod, making it perfect for scaling your Martian infrastructure, even if you run it less frequently.",
-    "quests.extreme_voltage.plutonium_rod.desc.2": "However, its &cmassive heat&r poses a serious challenge. Reaching up to &6595 Heat&r, it’s impossible to run it safely for the time being without &bRefrigerant Pellets&r. Check the quest on the right for more details about this material, which you can insert into a &6Material Holder&r.\n\nThe good news? You can stabilize the reactor with just &61 Material Holder&r, bringing the temperature down to around &e430 Heat&r manageable with some &fFramed Glacial Wool&r. Otherwise, &62 Material Holders&r should keep it perfectly under control.",
+    "quests.extreme_voltage.plutonium_rod.desc.2": "However, its &cmassive heat&r poses a serious challenge. Reaching up to &6595 Heat&r, it’s impossible to run it safely for the time being without &bPA6&r. Check the quest on the right for more details about this material, which you can insert into a &6Material Holder&r.\n\nThe good news? You can stabilize the reactor with just &61 Material Holder&r, bringing the temperature down to around &e430 Heat&r manageable with some &fFramed Glacial Wool&r. Otherwise, &62 Material Holders&r should keep it perfectly under control.",
 
     "quests.extreme_voltage.tritiated_water.title": "Tritiated Water",
     "quests.extreme_voltage.tritiated_water.subtitle": "Radioactive Water? Is everything radioactive?",

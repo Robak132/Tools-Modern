@@ -125,7 +125,7 @@
     "quests.ae2.batteries.desc": "These are the batteries for your ME Network. You may not need them at the beginning, but just keep them in mind — your energy cost could rise quickly, and a blackout in your ME Network can be a really dangerous situation.",
 
     "quests.ae2.cutting_knife.title": "Cutting Knives",
-    "quests.ae2.cutting_knife.desc": "These are tools for easily renaming all of your ME components. Why would you want to do this? If you rename your Pattern Providers, their names will show up in the Pattern Terminal, which can be very handy for keeping track of which Pattern Provider is connected to which machine.\n\nFor example &oSmall Gear Extruder&r as a name for the Pattern Provider would let you easily know that this Extruder contains a Small Gear mold, so you should only put Small Gear patterns in it.",
+    "quests.ae2.cutting_knife.desc": "These are tools for easily renaming all of your ME components by right-clicking them with a knife in your hand. Why would you want to do this? If you rename your Pattern Providers, their names will show up in the Pattern Terminal, which can be very handy for keeping track of which Pattern Provider is connected to which machine.\n\nFor example &oSmall Gear Extruder&r as a name for the Pattern Provider would let you easily know that this Extruder contains a Small Gear mold, so you should only put Small Gear patterns in it.",
     "quests.ae2.cutting_knife.task": "Either cutting knife",
 
     "quests.ae2.pattern_box.desc": "The Pattern Box can carry around all your Blank and Encoded Patterns in one inventory slot, and they will be visible in any AE2 device UI as long as the box is somewhere in your inventory.",
