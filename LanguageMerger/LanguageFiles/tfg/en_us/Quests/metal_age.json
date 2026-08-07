@@ -108,7 +108,7 @@
 
     "quests.metal_age.blast_furnace.title": "Blast Furnace",
     "quests.metal_age.blast_furnace.subtitle": "Then I started Blastin'",
-    "quests.metal_age.blast_furnace.desc": "The Blast Furnace is a multiblock structure that allows you to create Pig Iron. Placing a combination of Iron, Flux and fuel (see the adjacent quest) inside the Blast Furnace produces Pig Iron, which can be worked into Steel.\n\nIn order for the Blast Furnace to reach its required high temperatures, it will need its own Bellows, used to force air through a Tuyere which you place inside the blast furnace.\n\nThe Field Guide contains an entry on how the Blast Furnace works and how to build one.",
+    "quests.metal_age.blast_furnace.desc": "The Blast Furnace is a multiblock structure that allows you to create Pig Iron. Placing a combination of Iron, Flux and fuel (see the adjacent quest) inside the Blast Furnace produces Pig Iron, which can be worked into Steel.\n\nIn order for the Blast Furnace to reach its required high temperatures, it will need its own Bellows, used to force air through a Tuyere which you place inside the blast furnace.\n\nThe Field Guide contains an entry on how the Blast Furnace works and how to build one.\n\n&3&lTip:&r&oThe bellows can be automated with a Shaft into its back, and a Pulse Timer can activate Dispensers to drop items into the top.",
 
     "quests.metal_age.steel_anvil.title": "T4 Anvil: Steel",
     "quests.metal_age.steel_anvil.subtitle": "A huge leap from wrought iron",

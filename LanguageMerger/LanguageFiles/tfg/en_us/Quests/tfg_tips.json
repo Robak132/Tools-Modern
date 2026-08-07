@@ -916,6 +916,9 @@
     "quests.tfg_tips.universal_compost.task.1": "Any colored Universal Compost",
     "quests.tfg_tips.universal_compost.task.2": "Any colored Bag of Universal Compost",
 
+    "quests.tfg_tips.compost_tumbler.subtitle": "Uh oh, stinky!",
+    "quests.tfg_tips.compost_tumbler.desc": "The &dCompost Tumbler&r is a faster and automated way of making &aCompost&r. Unlike the regular Composter, it can accept additional ingredients such as pottery sherds, fish, and bones.\n\nThe Compost Tumbler needs to be connected to Create's mechanical power to work, but it only runs at a certain speed.\n\nRead the field guide page for more information on what ratios of items can be most effective.",
+
     "__comment16": "#endregion",
 
 
