@@ -18,7 +18,18 @@
 	"tfg.emi.bacon_requirement": "Bacon - The Raw Pork must be smoked first",
 	"tfg.emi.large_boiler_booster.temperature_bonus": "Temp Bonus: %s",
 	"tfg.emi.large_boiler_booster.min_boiler": "Requires: %s boiler",
+	"emi.category.tfg.block_interaction": "Block Modifications",
 	"emi.category.tfg.large_boiler_booster": "Large Boiler Booster",
+
+	"emi.category.deafission.fission_reactor_coolant": "Fission Reactor Cooling",
+	"emi.category.deafission.fission_reactor_processing": "Fission Reactor Material Holder",
+	"emi.category.deafission.fission_reactor_fuel": "Fission Reactor Fuel",
+
+	"emi.category.tfg.blaze_burner": "Blaze Burner Fuels",
+	"tfg.emi.liquid_bb_burn_time": "Duration: %d secs",
+	"tfg.emi.liquid_bb_superheat": "§lSuperheated",
+	"emi.category.tfg.combustion_engine": "Combustion Engine Fuels",
+	"tfg.emi.combustion_engine_burn_time": "Duration: %d secs @ %s RPM (§7LS§r)",
 
 	"tfg.gui.spawn_difficulty.easy": "(§aEasy§r)",
 	"tfg.gui.spawn_difficulty.normal": "(§bNormal§r)",

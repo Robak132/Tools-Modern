@@ -65,16 +65,6 @@
     "trim_material.tfc.pyrite_tfc": "Pyrite",
     "trim_material.tfc.redx_tfc": "RedX",
 
-    "tfg.emi.liquid_bb_burn_time": "Duration: %d secs",
-    "tfg.emi.liquid_bb_superheat": "§lSuperheated",
-    "emi.category.tfg.blaze_burner": "Blaze Burner Fuels",
-
-    "emi.category.tfg.block_interaction": "Block Modifications",
-
-    "emi.category.deafission.fission_reactor_coolant": "Fission Reactor Cooling",
-    "emi.category.deafission.fission_reactor_processing": "Fission Reactor Material Holder",
-    "emi.category.deafission.fission_reactor_fuel": "Fission Reactor Fuel",
-
     "tfg.toast.ore_prospector_none": "No ores found in range.",
     "tfg.toast.ore_prospector_message": "Ores found within %s §6blocks in this direction: %s",
 
