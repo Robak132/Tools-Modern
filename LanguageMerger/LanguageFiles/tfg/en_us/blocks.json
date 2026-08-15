@@ -1628,5 +1628,9 @@
 	"block.tfg.palm_tree.trunk": "Palm Tree Trunk",
 
 	"block.tfg.titanium_flywheel": "Titanium Steam Engine Flywheel",
-	"block.tfg.titanium_steam_engine": "Titanium Steam Engine"
+	"block.tfg.titanium_steam_engine": "Titanium Steam Engine",
+	"block.tfg.generators.steel_combustion_engine": "Steel Combustion Engine",
+	"block.tfg.generators.aluminium_combustion_engine": "Aluminium Combustion Engine",
+	"block.tfg.generators.stainless_steel_combustion_engine": "Stainless Steel Combustion Engine",
+	"block.tfg.generators.titanium_combustion_engine": "Titanium Combustion Engine"
 }
