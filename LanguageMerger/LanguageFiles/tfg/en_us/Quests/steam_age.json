@@ -288,7 +288,7 @@
 
 	"quests.steam_age.basic_mech_press.title": "Basic Mechanical Press",
 	"quests.steam_age.basic_mech_press.subtitle": "Automatic Welding Machine",
-	"quests.steam_age.basic_mech_press.desc": "If you hate welding things over and over, this machine can do it for you. Just place the Basin over your charcoal forge, make sure your forge's temperature is at Yellow or above, and then drop your items in the Basin. Unfortunately, that's about all that the basic one can do.",
+	"quests.steam_age.basic_mech_press.desc": "If you hate welding things over and over, this machine can do it for you.\n\nJust place the Basin over your charcoal forge, make sure your forge's temperature is at Yellow or above, and then drop your items in the Basin. Check if your recipe has a \"circuit\" at the top, then set the same number on the machine itself. Don't forget the flux!\n\nThis machine can also convert fertilizers into \"pure\" forms, making it easier to fertilise your growing farm.",
 
 	"quests.steam_age.steel_mech_press.title": "Steel Mechanical Press",
 	"quests.steam_age.steel_mech_press.subtitle": "Almost a Forge Hammer",

@@ -806,6 +806,9 @@
 	"block.tfg.flax": "Flax",
 	"block.tfg.flax_wild": "Wild Flax",
 	"block.tfg.flax_dead": "Dead Flax",
+	"block.tfg.cotton": "Cotton",
+	"block.tfg.cotton_wild": "Wild Cotton",
+	"block.tfg.cotton_dead": "Dead Cotton",
 
 	"block.tfg.plant.red_oat_grass": "Red Oat Grass",
 	"block.tfg.plant.anemone_green": "Green Anemone",
