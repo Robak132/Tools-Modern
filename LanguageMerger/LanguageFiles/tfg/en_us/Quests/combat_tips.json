@@ -41,14 +41,14 @@
 	"quests.combat_tips.mold_weapons.title": "Molded Weapons",
 	"quests.combat_tips.mold_weapons.subtitle": "The power of metal",
 	"quests.combat_tips.mold_weapons.description": "Molds allow you to make copper and bronze versions of all weapons, including three new types: Swords, Scythes, and Maces. \n\nSwords: These well rounded weapons deal &6Slashing&r damage. \n\nScythes: They do more damage than swords, but are slower. They deal &6Slashing&r damage. \n\nMaces: They are the best weapons that deal &2Crushing&r damage.",
-	"quests.combat_tips.mold_weapons.task1": "Any Sword",
-	"quests.combat_tips.mold_weapons.task2": "Any Scythe",
-	"quests.combat_tips.mold_weapons.task3": "Any Mace",
+	"quests.combat_tips.mold_weapons.task.1": "Any Sword",
+	"quests.combat_tips.mold_weapons.task.2": "Any Scythe",
+	"quests.combat_tips.mold_weapons.task.3": "Any Mace",
 
 	"quests.combat_tips.bow.title": "Bow and Arrow",
 	"quests.combat_tips.bow.subtitle": "Then I took an arrow to the knee...",
 	"quests.combat_tips.bow.description": "While javelins are cool, it's hard to beat a bow and arrow. Arrows can be expensive, so setting up a bird farm isn't a bad idea. Arrows deal &9Piercing&r damage. \n\nOnce you have leather you will be able to craft a &5Quiver&r which allows you to have easy access to up to 8 stacks of arrows!",
-	"quests.combat_tips.bow.task2": "Any Arrow",
+	"quests.combat_tips.bow.task.2": "Any Arrow",
 
 	"quests.combat_tips.bronze_main.title": "Bronze Age",
 
@@ -65,10 +65,10 @@
 	"quests.combat_tips.armor.title": "Metal Armor",
 	"quests.combat_tips.armor.subtitle": "Only the shiniest suit of armor",
 	"quests.combat_tips.armor.description": "Metal armor requires a two-step forging process, but don't be scared off by its difficulty. Metal armor will boost your survival chances going into the &dBeneath&r or if you fight off a group of &3Illagers&r.\n\nAll metal armor will give you bonus protection to &6Slashing&r, &9Piercing&r, and &2Crushing&r damage",
-	"quests.combat_tips.armor.task1": "Any Metal Helmet",
-	"quests.combat_tips.armor.task2": "Any Metal Chestplate",
-	"quests.combat_tips.armor.task3": "Any Metal Greaves",
-	"quests.combat_tips.armor.task4": "Any Metal Boots",
+	"quests.combat_tips.armor.task.1": "Any Metal Helmet",
+	"quests.combat_tips.armor.task.2": "Any Metal Chestplate",
+	"quests.combat_tips.armor.task.3": "Any Metal Greaves",
+	"quests.combat_tips.armor.task.4": "Any Metal Boots",
 
 	"quests.combat_tips.iron_main.title": "Iron Age",
 

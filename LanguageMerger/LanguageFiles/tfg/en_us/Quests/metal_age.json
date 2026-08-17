@@ -121,9 +121,9 @@
     "quests.metal_age.weak_steel.title": "Weak Steel Ingredients",
     "quests.metal_age.weak_steel.subtitle": "Hope you like math",
     "quests.metal_age.weak_steel.desc": "Weak Steel is one part of the necessary metals to create Black Steel. You can alloy it with 2 parts Steel, 1 part Nickel and 1 part Black Bronze.\n\nYou can check the liquid weak steel's recipe for more precise alloying percentage rates.",
-    "quests.metal_age.weak_steel.task1": "1 Part Nickel",
-    "quests.metal_age.weak_steel.task2": "2 Parts Steel",
-    "quests.metal_age.weak_steel.task3": "1 Part Black Bronze",
+    "quests.metal_age.weak_steel.task.1": "1 Part Nickel",
+    "quests.metal_age.weak_steel.task.2": "2 Parts Steel",
+    "quests.metal_age.weak_steel.task.3": "1 Part Black Bronze",
 
     "quests.metal_age.highcarb_black_steel.title": "Black Steel Ingredients",
     "quests.metal_age.highcarb_black_steel.subtitle": "Conservation of matter does not apply",
