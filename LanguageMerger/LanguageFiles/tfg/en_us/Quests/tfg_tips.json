@@ -143,6 +143,7 @@
     "quests.tfg_tips.crates.title": "GregTech Storage",
     "quests.tfg_tips.crates.subtitle": "Earlygame buffering",
     "quests.tfg_tips.crates.desc": "In theory, Crates are flat upgrades to Chests. A single block space that stores more items - what more could you ask for?\n\nThey're more expensive than regular Chests, and can't be attached to Create contraptions, but can hold any size of item and can &6accept Covers&r, making them perfect candidates for buffers in automation.",
+  "quests.tfg_tips.crates.task0": "Any GregTech Crate",
 
     "quests.tfg_tips.tape.title": "Tape for Crates",
     "quests.tfg_tips.tape.subtitle": "Moving stuff around",
@@ -562,6 +563,11 @@
     "quests.tfg_tips.create_rubber_ingot.subtitle": "Insulate them cables",
     "quests.tfg_tips.create_rubber_ingot.desc": "Utilizing the &bVacuum Chamber&r and some additional heating, you can process &aLatex&r from various trees into &dRaw Rubber Pulp&r through a specific process. You can then smelt together 3 &dRaw Rubber Pulp&r with a bit of &eSulfur Dust&r in an &bAlloy Smelter&r to create &dRubber Ingots&r, perfect for insulating cables and very much necessary to advance in the &2Voltaic Age&r and beyond...\n\n&9Tip:&r As you progress, there will be several ways to make this process cheaper and easier. Keep checking EMI! You'll be using Rubber for a long time, so it's well worth automating.",
 
+  "quests.tfg_tips.create_concrete_support.title": "Concrete Support",
+  "quests.tfg_tips.create_concrete_support.subtitle": "Have those collapses gotten you upset?",
+  "quests.tfg_tips.create_concrete_support.task0": "Concrete Support",
+  "quests.tfg_tips.create_concrete_support.desc": "&dConcrete&r is a durable material mainly used in construction. &dSupports&r made from it have a greater &arange&r then their wooden counterparts.\n\nFor now, &dConcrete&r can be made in a &bMixing Bowl&r, more effective bulk crafts will be unlocked with some &bmachines&r",
+
     "__comment12": "#endregion",
 
     "__comment13": "#region Transportation",
@@ -630,6 +636,12 @@
     "quests.tfg_tips.quadrocopter.title": "Quadrocopter",
     "quests.tfg_tips.quadrocopter.subtitle": "Not a Quadcopter",
     "quests.tfg_tips.quadrocopter.desc": "The &3Quadrocopter&r is a very basic &aHovercraft&r, containing &b6 Inventory Slots&r, a &asingle Upgrade Slot&r and a &csingle Weapon Slot.&r\n\nIt excels in simple controls, making it ideal for &ebuilding.&r",
+
+  "quests.tfg_tips.create_reinforced_concrete_support.title": "Reinforced and Steel Supports",
+  "quests.tfg_tips.create_reinforced_concrete_support.subtitle": "Atlas would be proud",
+  "quests.tfg_tips.create_reinforced_concrete_support.task0": "Reinforced Concrete Support",
+  "quests.tfg_tips.create_reinforced_concrete_support.task1": "Steel Support",
+  "quests.tfg_tips.create_reinforced_concrete_support.desc": "&dReinforced Concrete&r and &dSteel&r supports are the best options in this modpack.\n\nCrafting any one of them requires &9Steel&r, however the &dReinforced Concrete&r ones use significantly less, especially as more &bmachines&r get unlocked.\n\n&9Tip:&r &9Steel rebars&r can be used as a standalone support, having the same &arange&r as &bConcrete&r ones",
 
     "quests.tfg_tips.gyrodyne.title": "Gyrodyne",
     "quests.tfg_tips.gyrodyne.subtitle": "Muscle-powered Copter",
