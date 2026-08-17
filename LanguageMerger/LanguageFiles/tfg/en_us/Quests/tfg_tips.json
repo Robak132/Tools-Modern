@@ -985,8 +985,8 @@
 
     "quests.tfg_tips.tools_tips.mattocks.title": "Mattocks",
     "quests.tfg_tips.tools_tips.mattocks.subtitle": "A shovel just wont do.",
-    "quests.tfg_tips.tools_tips.mattocks.task0": "Any Mattock",
-    "quests.tfg_tips.tools_tips.mattocks.task1": "Any Road Material",
+    "quests.tfg_tips.tools_tips.mattocks.task.0": "Any Mattock",
+    "quests.tfg_tips.tools_tips.mattocks.task.1": "Any Road Material",
     "quests.tfg_tips.tools_tips.mattocks.desc": "&cMattocks&r are your key to developing roads in TFG. They can be acquired through casting into a mold like any other TFC tool. To use a mattock change its mode (default-key: &3&lN&r&r) to \"full-block\". \nThen you can right-click on dirt or grass to tamp it down. You can then apply &6crushed base course&r and finally the material of your choice after.",
 
     "quests.tfg_tips.tools_tips.base_course.title": "Base Course",
