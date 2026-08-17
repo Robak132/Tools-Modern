@@ -566,7 +566,7 @@
   "quests.tfg_tips.create_concrete_support.title": "Concrete Support",
   "quests.tfg_tips.create_concrete_support.subtitle": "Have those collapses gotten you upset?",
   "quests.tfg_tips.create_concrete_support.task0": "Concrete Support",
-  "quests.tfg_tips.create_concrete_support.desc": "&dConcrete&r is a durable material mainly used in construction. &dSupports&r made from it have a greater &arange&r then their wooden counterparts.\n\nFor now, &dConcrete&r can be made in a &bMixing Bowl&r, more effective bulk crafts will be unlocked with some &bmachines&r",
+  "quests.tfg_tips.create_concrete_support.desc": "&dConcrete&r is a durable material mainly used in construction. &dSupports&r made from it have a greater &arange&r then their wooden counterparts.\n\nFor now, &dConcrete&r can only be made in a &bMixing Bowl&r, but more efficient ways to craft it in bulk will be unlocked later.",
 
     "__comment12": "#endregion",
 
@@ -641,7 +641,7 @@
   "quests.tfg_tips.create_reinforced_concrete_support.subtitle": "Atlas would be proud",
   "quests.tfg_tips.create_reinforced_concrete_support.task.0": "Reinforced Concrete Support",
   "quests.tfg_tips.create_reinforced_concrete_support.task.1": "Steel Support",
-  "quests.tfg_tips.create_reinforced_concrete_support.desc": "&dReinforced Concrete&r and &dSteel&r supports are the best options in this modpack.\n\nCrafting any one of them requires &9Steel&r, however the &dReinforced Concrete&r ones use significantly less, especially as more &bmachines&r get unlocked.\n\n&9Tip:&r &9Steel rebars&r can be used as a standalone support, having the same &arange&r as &bConcrete&r ones",
+  "quests.tfg_tips.create_reinforced_concrete_support.desc": "&dReinforced Concrete&r and &dSteel&r supports are the best supports.\n\nCrafting either of them requires &9Steel&r, however the &dReinforced Concrete&r ones use significantly less, especially as you unlock more &bmachines&r.\n\n&9Tip:&r &9Steel rebar&r can be used as a support too, having the same range as regular concrete ones.",
 
     "quests.tfg_tips.gyrodyne.title": "Gyrodyne",
     "quests.tfg_tips.gyrodyne.subtitle": "Muscle-powered Copter",
