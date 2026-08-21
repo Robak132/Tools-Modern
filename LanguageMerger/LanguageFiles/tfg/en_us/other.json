@@ -93,12 +93,19 @@
 
     "tfg.multiblock.large_boiler.booster_active": "Booster: %s (%sK)",
     "tfg.multiblock.large_boiler.booster_none": "Booster: None",
-    "tfg.multiblock.large_boiler.water_boosted": "Water: %s (%s Steam)",
-    "tfg.multiblock.large_boiler.water_normal": "Water: Standard",
-    "fluid.tag.tfg.water_boiler_t2": "Distilled Water",
+    "tfg.multiblock.large_boiler.water_boosted": "Water: %s (%s)",
+    "tfg.multiblock.large_boiler.water_consumption": "Water Consumption: %d mB/t",
+    "tfg.multiblock.large_boiler.water_consumption.tooltip": "Water consumption increases with pressure past a certain threshold",
+    "tfg.multiblock.large_boiler.water_normal": "Water: %s",
+    "tfg.multiblock.large_boiler.standard": "Standard",
+    "tfg.multiblock.large_boiler.temperature": "Pressure Unit: %sPU / %sPU",
+    "tfg.multiblock.large_boiler.max_temperature": "Max Pressure: %sPU, Steam Production: %s/t",
+    "tfg.multiblock.large_boiler.temperature.tooltip": "Scale with Steam output, 1 PU = 1 mB of Steam",
     "tfg.multiblock.large_boiler.mode": "Boiler Mode: ",
     "tfg.recipe_type.large_boiler": "Standard",
     "tfg.recipe_type.super_boiler": "Advanced",
+
+    "fluid.tag.tfg.water_boiler_t2": "Distilled Water",
 
     "tfg.multiblock.turbine.obstructed": "Your turbine is obstructed, check under and inside the chimney that there is nothing blocking it",
 
@@ -132,8 +139,13 @@
 
     "tfg.machine.ore_processing_beneath.no_gas": "No Natural Gas detected",
     "tfg.machine.ore_processing_beneath.gas_critical": "Natural Gas level critical: %s%%",
-    "tfg.machine.ore_processing_beneath.gas_level": "Natural Gas: %s%%",
-    "tfg.machine.ore_processing_beneath.output_modifier": "Output efficiency: %s%%",
+    "tfg.machine.ore_processing_beneath.gas_level": "Natural Gas level: %s",
+    "tfg.machine.ore_processing_beneath.output_modifier": "Output efficiency: %s",
+    "tfg.machine.ore_processing_beneath.output_modifier.tooltip": "Byproduct chances scale with the gas level in the hatch, optimal at half capacity",
+    "tfg.machine.ore_processing_beneath.parallel_info": "Running Parallels: %s",
+    "tfg.machine.ore_processing_beneath.parallel_info.tooltip": "This machine can run up to %d recipes in parallel",
+    "tfg.machine.ore_processing_beneath.fluid_consumption": "%s: %s",
+    "tfg.machine.ore_processing_beneath.fluid_consumption.tooltip": "The more parallels are running, the less fluid is consumed per recipe",
 
     "key.tfg.spray_can_menu": "Open Spray Can Menu",
     "key.categories.tfg": "TerraFirmaGreg",
