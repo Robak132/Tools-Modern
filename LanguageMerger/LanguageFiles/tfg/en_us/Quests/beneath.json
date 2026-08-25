@@ -29,7 +29,7 @@
 
 	"quests.tfg_tips.blue_steel_diving.title": "Blue Steel Diving Gear",
 	"quests.tfg_tips.blue_steel_diving.subtitle": "Perfect for taking a warm lava bath",
-	"quests.tfg_tips.blue_steel_diving.desc": "The &9Blue Steel Diving Gear&r is a special set of armor that makes you completely impervious to &cLava&r while you're wearing it. The reduced &aWarmth&r but high &bInsulation&r means you'll be able to keep a very stable body temperature while in &4The Beneath.&r",
+	"quests.tfg_tips.blue_steel_diving.desc": "The &9Blue Steel Diving Gear&r is a special set of armor that makes you completely impervious to &cLava&r while you're wearing it. However, it does not provide any protection from high ambient temperatures - you'll need protective clothing and cooling food or drink for that.",
 
 	"quests.tfg_tips.juicer.title": "Juicer",
 	"quests.tfg_tips.juicer.subtitle": "Hydration on a Pinch",
@@ -93,7 +93,10 @@
 	"quests.tfg_tips.middle_beneath.desc": "The middle layer of &4The Beneath&r is where the heat starts to become an actual threat. However, this is also where you'll start finding more of the valuable resources, such as &dKaolin Clay&r.\n\nMake sure you have ample preparations before descending!",
 
 	"quests.tfg_tips.red_elk.title": "Red Elk",
-	"quests.tfg_tips.red_elk.desc": "&cRed Elk&r are one of the local wild animals in &4The Beneath&r. They can only be found on the middle and bottom layers, and are your only source of &cLavaproof Hides&r. You can also use these hides for other leather purposes.",
+	"quests.tfg_tips.red_elk.desc": "&cRed Elk&r are one of the local wild animals in &4The Beneath&r. They can only be found on the middle and bottom layers, and are a source of &cLavaproof Hides&r. You can also use these hides for other leather purposes.",
+
+	"quests.tfg_tips.phantoms.title": "Phantoms",
+	"quests.tfg_tips.phantoms.desc": "&dPhantoms&r can be naturally found flying around the middle and bottom layers of &4The Beneath&r. They have no relation to whether or not you sleep, and their membrane can be crafted into &bPhantom Silk&r.",
 
 	"quests.tfg_tips.middle_slimes.title": "More Tameable Jellies",
 	"quests.tfg_tips.middle_slimes.subtitle": "Super adaptable!",

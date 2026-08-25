@@ -71,29 +71,29 @@
     "quests.stone_age.primitive_insulation.subtitle": "Caveman Chic",
     "quests.stone_age.primitive_insulation.desc": "Naked and freezing? This is the easiest clothing you can craft, and though it has very low durability, it should last until you get something better.",
 
-    "quests.stone_age.furs.title": "Predator Hides",
+    "quests.stone_age.furs.title": "Warming Predator Hides",
     "quests.stone_age.furs.subtitle": "Hardcore Fursuiting",
-    "quests.stone_age.furs.desc": "Large predatory animals drop their furs instead of normal hides, which you can either craft into insulating clothing, or scrape to get a normal hide to then turn into leather as normal.",
+    "quests.stone_age.furs.desc": "Some large animals drop their furs instead of normal hides, which you can either craft into insulating clothing, or scrape to get a normal hide to then turn into leather as normal.\n\nDirewolf, Panther, Cougar, Black Bear, Grizzly Bear, Caribou, Sabertooth, and Polar Bear hides all craft into top-tier warm clothing, with varying levels of durability and insulation.",
 
-    "quests.stone_age.wool_clothes.title": "Wool Clothes",
+    "quests.stone_age.wool_clothes.title": "Warm Clothes",
     "quests.stone_age.wool_clothes.subtitle": "For the bitter cold",
-    "quests.stone_age.wool_clothes.desc": "Wool Clothes are perfect for cold climates and harsh winters. A full set of Wool Clothes is ideal to survive most winters.\n\nYou'll have to befriend (or kill) some wool producing mammal, such as a Sheep, Alpaca or Musk Ox. The Field Guide's section on Fauna lists where to find every different animal, and the Animal Husbandry section explains how to shear them.",
+    "quests.stone_age.wool_clothes.desc": "Warm Clothes are crafted from either Wool or Cotton and are perfect for cold climates and harsh winters. A full set of Warm Clothes is ideal to survive most winters.\n\nYou'll have to befriend (or kill) some wool producing mammal, such as a Sheep, Alpaca or Musk Ox to obtain Wool, while Cotton requires a trip to &4The Beneath&r. The Field Guide's section on Fauna lists where to find every different animal, and the Animal Husbandry section explains how to shear them.",
 
     "quests.stone_age.insulated_leather_clothes.title": "Insulated Leather Clothes",
     "quests.stone_age.insulated_leather_clothes.subtitle": "When it's getting chilly outside",
     "quests.stone_age.insulated_leather_clothes.desc": "Insulated Leather Clothes are easier to make than a full set of Wool Clothes, but provide less insulation and warmth. They're still very effective for living in more temperate regions.\n\nYou'll need to kill animals to obtain their hide, and also befriend (or kill) some wool producing mammal to craft wool string, such as a Sheep, Alpaca or Musk Ox. The Field Guide's section on Fauna lists where to find every different animal, and the Animal Husbandry section explains how to shear them.",
 
-    "quests.stone_age.burlap_clothes.title": "Burlap Clothes",
-    "quests.stone_age.burlap_clothes.subtitle": "For when the heat is getting to you",
-    "quests.stone_age.burlap_clothes.desc": "Burlap is made out of Jute Fiber or Flax Tow Fibers. Jute can grow in most warmer climates as long as its temperature and hydration needs are met, while Flax can be found in most temperate climates.\n\nBurlap Clothes are great for hot summers the upper parts of The Beneath.",
+    "quests.stone_age.cooling_clothes.title": "Cooling Clothes",
+    "quests.stone_age.cooling_clothes.subtitle": "For when the heat is getting to you",
+    "quests.stone_age.cooling_clothes.desc": "Burlap is made out of Jute Fiber, Flax Tow Fibers, or Oil Palm Fibers. Jute can grow in most warmer climates as long as its temperature and hydration needs are met, while Flax can be found in most temperate climates. Oil Palms can be found in &4The Beneath&r.\n\nSilk is made out of Spider Silk, which can be difficult to get large amounts of without venturing somewhere especially deep.\n\nLinen is made out of Flax Line Fibers. Wild Flax can be found in most temperate climates.",
 
-    "quests.stone_age.linen_clothes.title": "Linen Clothes",
-    "quests.stone_age.linen_clothes.subtitle": "Light and Sweat-wicking",
-    "quests.stone_age.linen_clothes.desc": "Linen is made out of Flax Line Fibers. Wild Flax can be found in most temperate climates.\n\nLinen Clothes are great for hot environments like the tropics or the upper parts of The Beneath.",
+    "quests.stone_age.cooling_hides.title": "Cooling Predator Hides",
+    "quests.stone_age.cooling_hides.subtitle": "Light and Sweat-wicking",
+    "quests.stone_age.cooling_hides.desc": "Clothes made from Crocodile Leather or Lion or Tiger fur provides a stronger cooling effect than clothing.",
 
-    "quests.stone_age.silk_clothes.title": "Silk Clothes",
-    "quests.stone_age.silk_clothes.subtitle": "No Silkworms, sorry!",
-    "quests.stone_age.silk_clothes.desc": "Silk is made out of Spider String, which can be difficult to get large amounts of without venturing somewhere especially deep.\n\nSilk Clothes are excellent for incredibly hot environments, such as Deserts or the lower portions of The Beneath.",
+    "quests.stone_age.beneath_clothes.title": "Beneath Clothing",
+    "quests.stone_age.beneath_clothes.subtitle": "Ultimate heat protection!",
+    "quests.stone_age.beneath_clothes.desc": "The clothing with the highest levels of cooling can only be crafted by venturing into &4The Beneath&r. Phantom Silk is made out of Phantoms, naturally found flying around there, while the Red Elk set has very high insulation and durability, and is crafted from both the animal found roaming the lower levels of &4The Beneath&r, as well as from some other tough monsters.",
 
     "quests.stone_age.clothes.title": "Clothing",
     "quests.stone_age.clothes.subtitle": "Fancy!",
@@ -124,7 +124,7 @@
     "quests.stone_age.stone_tools.subtitle": "Turns out hitting stones together is quite useful",
     "quests.stone_age.stone_tools.desc": "While stone and flint are relatively simple and primitive materials, they're what you're stuck with until you learn how to work with metals. Some other useful tools include the Javelin, which can be thrown like a vanilla Trident, and the Hoe, which allows you to farm.",
     "quests.stone_age.stone_tools.task": "A stone javelin",
-    
+
     "quests.stone_age.gather_straw.title": "Gather Straw",
     "quests.stone_age.gather_straw.subtitle": "You can also use a Hoe if you want",
     "quests.stone_age.gather_straw.desc": "Most grasses you find in the overworld can be harvested for Straw, when broken with a Knife or Hoe. Straw has a number of uses for crafting, but you'll want at least 8 to create a Pit Kiln.\n\nStraw can also be used to create a Straw Hat for some basic sun protection, or Thatch, which can be used as a relatively simple building block with no collision.",
@@ -273,5 +273,10 @@
 
     "quests.stone_age.barrelrack.title": "Barrel Rack",
     "quests.stone_age.barrelrack.subtitle": "Now that's a nice rack!",
-    "quests.stone_age.barrelrack.desc": "The barrel rack can be used to stack barrels on top of eachother, allowing you to be more space-efficient!\n\nConsult your field guide for more specific information on how to use them."
+    "quests.stone_age.barrelrack.desc": "The barrel rack can be used to stack barrels on top of each other, allowing you to be more space-efficient!\n\nConsult your field guide for more specific information on how to use them.",
+
+    "quests.stone_age.fuel_temperatures.title": "Fuel Temperatures",
+    "quests.stone_age.fuel_temperatures.subtitle": "There's more than charcoal!",
+    "quests.stone_age.fuel_temperatures.desc.1": "You may have noticed that different fuels burn at different temperatures - for example, charcoal burns at &eYellow White**&r. But some metals melt at much lower temperatures, such as Bronze at &6Orange&r, which means you have to be constantly watching the temperature of your ingots to make sure they don't totally melt.\n\nGood news, there's other options! Peat Briquettes can be used in the Charcoal Forge and only burn at &4Dark Red*&r, making them useful for metals with low melting points.",
+    "quests.stone_age.fuel_temperatures.desc.2": "You aren't limited to the forge either - it may look kind of silly, but you can heat ingots in a pot, on a grill, in an oven... any device that works with TFC's heating system.\n\n&9Note&r: putting a mold or vessel on the right side of the forge interface will catch any metals that melt."
 }

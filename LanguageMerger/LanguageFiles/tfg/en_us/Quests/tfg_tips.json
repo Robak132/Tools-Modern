@@ -1,8 +1,8 @@
 {
     "__comment1": "#region Starting",
 
-    "quests.tfg_tips": "Tips - Survival",
-    "quests.tfg_tips.subtitle": "Tips and Tricks to make your life slightly easier.",
+    "quests.tfg_tips": "Tips - Food",
+    "quests.tfg_tips.subtitle": "From food preparation to preservation, everything you need to know to have a delicious time.",
 
     "quests.tfg_tips.beginning.title": "Tips and Tricks be here!",
     "quests.tfg_tips.beginning.subtitle": "Dear God that's a lot of branches...",
@@ -35,7 +35,7 @@
 
     "quests.tfg_tips.first_sacks.title": "Storage Sacks",
     "quests.tfg_tips.first_sacks.subtitle": "A step up from vessels",
-    "quests.tfg_tips.first_sacks.desc": "The &6Leather Sack&r and &3Burlap Sack&r are two options for portable storage with their own pros and cons. It is a good idea to view the container info for each one to know how many &ditem slots&r, the &dstack size&r, and the max &ditem size&r for each sack.\n\n&l&3Tip:&r The &4&oField Guide&r has more specific info on some of the special features of the sacks.",
+    "quests.tfg_tips.first_sacks.desc": "The &6Leather Sack&r and &3Burlap Sack&r are two options for portable storage with their own pros and cons. It is a good idea to view the container info for each one to know how many &ditem slots&r, the &dstack size&r, and the max &ditem size&r for each sack.\n\n&l&9Tip:&r The &4&oField Guide&r has more specific info on some of the special features of the sacks.",
 
     "quests.tfg_tips.special_sacks.title": "Specialized Sacks",
     "quests.tfg_tips.special_sacks.subtitle": "Wait, it can hold how much?",
@@ -47,7 +47,7 @@
 
     "quests.tfg_tips.vessels.title": "Large and Small Vessels",
     "quests.tfg_tips.vessels.subtitle": "Clay can be quite useful",
-    "quests.tfg_tips.vessels.desc": "&dSmall Vessels&r have 4 inventory slots while &6Large Vessels&r have 9! The &dSmall Vessel&r is not just for item storage, but is also necessary for smelting and alloying basic metals.\nThe &6Large Vessel&r is heavier to carry, but is great for preserving food.\n\n&l&3Tip:&r&o Large Vessels double as early backpacks!",
+    "quests.tfg_tips.vessels.desc": "&dSmall Vessels&r have 4 inventory slots while &6Large Vessels&r have 9! The &dSmall Vessel&r is not just for item storage, but is also necessary for smelting and alloying basic metals.\nThe &6Large Vessel&r is heavier to carry, but is great for preserving food.\n\n&l&9Tip:&r&o Large Vessels double as early backpacks!",
 
     "quests.tfg_tips.portable_cells.title": "Portable Item and Fluid Cells",
     "quests.tfg_tips.portable_cells.subtitle": "Isn't this too advanced?",
@@ -283,12 +283,16 @@
     "quests.tfg_tips.wool_cloth.desc": "By shearing some friendly &2wool-producing&r livestock, you can spindle the resulting wool into &dWool Yarn.&r Working the yarn in a &3Loom&r gives you &dWool Cloth.&r\n\nBesides uses in &bGlassworking&r, it can be used to create &aWool Clothes&r, perfect for &bcold&r, bitter environments.\n\nWool is considered a &bHigh Quality Cloth.&r",
 
     "quests.tfg_tips.silk_cloth.title": "Silk Cloth",
-    "quests.tfg_tips.silk_cloth.subtitle": "Very, Very Smooth.",
+    "quests.tfg_tips.silk_cloth.subtitle": "Very, very smooth.",
     "quests.tfg_tips.silk_cloth.desc": "&dSilk Cloth&r can be created using &aString&r from killing &bSpiders&r or via &bPolycaprolactam (aka Nylon) Ingots&r. No silkworms exist yet, sorry! The dangerous &cWebbed Lair&r biome in &4The Beneath&r is another, albeit dangerous, source.\n\nSilk Cloth can be used to create &aSilk Clothes&r, which are the best at protecting you against &chot&r environments.\n\nSilk Cloth is considered a &bHigh Quality Cloth.&r",
 
     "quests.tfg_tips.phantom_silk.title": "Phantom Silk",
     "quests.tfg_tips.phantom_silk.subtitle": "Everyone's favourite mob vote winner",
-    "quests.tfg_tips.phantom_silk.desc": "&dPhantom Silk&r is weaved from Phantom Thread, which itself is crafted from Phantom Membrane. You can find &aPhantoms&r in the &4Beneath&r.",
+    "quests.tfg_tips.phantom_silk.desc": "&dPhantom Silk&r is weaved from Phantom Thread, which itself is crafted from Phantom Membrane. You can find &aPhantoms&r in &4The Beneath&r.",
+
+    "quests.tfg_tips.cotton_cloth.title": "Cotton Cloth",
+    "quests.tfg_tips.cotton_cloth.subtitle": "Thankfully not as prickly as the real thing",
+    "quests.tfg_tips.cotton_cloth.desc": "Found in &4The Beneath&r, cotton is another growable plant fiber that can be used to weave cloth. You can also use it to craft warming clothing.",
 
     "quests.tfg_tips.unrefined_paper.title": "Unrefined Paper",
     "quests.tfg_tips.unrefined_paper.subtitle": "Time to make some history.",
@@ -582,7 +586,7 @@
 
     "quests.tfg_tips.reinforced_glider.title": "Reinforced Glider",
     "quests.tfg_tips.reinforced_glider.subtitle": "Light as a feather!",
-    "quests.tfg_tips.reinforced_glider.desc": "A &dReinforced Hang Glider&r is the improved version of a &aHang Glider&r. With an upgraded &aAluminium&r frame and a fabric made of either &aReinforced Fabric&r or &aLightweight Cloth&r, you can now soar through the skies at &cdouble the speed&r!\nIt also has &cmore durability&r than the normal hang glider, and can be &crepaired&r in an assembler.\n\n&3Pro tip:&r\nUsing either &aSilk Cloth&r or &aPhantom Silk&r obtained in the &4Beneath&r reduces the fabric cost by &e2/3rds&r for both crafting and repairing!\nOnce you enter &6HV&r, you can also use &aPolycaprolactam Fabric&r as one of the fabrics with a reduced cost.",
+    "quests.tfg_tips.reinforced_glider.desc": "A &dReinforced Hang Glider&r is the improved version of a &aHang Glider&r. With an upgraded &aAluminium&r frame and a fabric made of either &aReinforced Fabric&r or &aLightweight Cloth&r, you can now soar through the skies at &cdouble the speed&r!\nIt also has &cmore durability&r than the normal hang glider, and can be &crepaired&r in an assembler.\n\n&3Pro tip:&r\nUsing either &aSilk Cloth&r or &aPhantom Silk&r obtained in &4The Beneath&r reduces the fabric cost by &e2/3rds&r for both crafting and repairing!\nOnce you enter &6HV&r, you can also use &aPolycaprolactam Fabric&r as one of the fabrics with a reduced cost.",
 
     "quests.tfg_tips.immersive_aircraft.title": "Immersive Aircraft",
     "quests.tfg_tips.immersive_aircraft.subtitle": "Fly across the skies, with style.",
@@ -750,7 +754,7 @@
 
     "quests.tfg_tips.create_steam_n_rails.title": "Trains",
     "quests.tfg_tips.create_steam_n_rails.subtitle": "Stay on track",
-    "quests.tfg_tips.create_steam_n_rails.desc": "&2Create&r has a powerful &5Train&r system for long distance transport of players, items, fluids, and everything else. These can be handy to travel across the wastelands or help you transport enormous amounts of materials, and most importantly, &acan move through unloaded chunks&r.\n\n&3Tip:&r if something is confusing, you can always hold &lW&r while hovering over an item to view its Ponder, which provides a more visual explanation.",
+    "quests.tfg_tips.create_steam_n_rails.desc": "&2Create&r has a powerful &5Train&r system for long distance transport of players, items, fluids, and everything else. These can be handy to travel across the wastelands or help you transport enormous amounts of materials, and most importantly, &acan move through unloaded chunks&r.\n\n&9Tip:&r if something is confusing, you can always hold &lW&r while hovering over an item to view its Ponder, which provides a more visual explanation.",
 
     "quests.tfg_tips.train_tracks.title": "Train Tracks",
     "quests.tfg_tips.train_tracks.subtitle": "A sturdy foundation",
@@ -763,7 +767,7 @@
 
     "quests.tfg_tips.train_limitations.title": "Train Limitations",
     "quests.tfg_tips.train_limitations.subtitle": "A little bit of realism",
-    "quests.tfg_tips.train_limitations.desc": "Sadly, trains have some limitations. A single train contraption &4cannot&r exceed &b20 bogeys&r and be longer than &b128 blocks&r - keep this in mind while designing your trains.\n\n&3Note:&r You can always change the limits in Create's config file, but remember that increasing the limit will use &lmore&r server resources.",
+    "quests.tfg_tips.train_limitations.desc": "Sadly, trains have some limitations. A single train contraption &4cannot&r exceed &b20 bogeys&r and be longer than &b128 blocks&r - keep this in mind while designing your trains.\n\n&9Note:&r You can always change the limits in Create's config file, but remember that increasing the limit will use &lmore&r server resources.",
 
     "quests.tfg_tips.hard_stop.title": "Track Buffers",
     "quests.tfg_tips.hard_stop.subtitle": "No more derailing",
@@ -771,7 +775,7 @@
 
     "quests.tfg_tips.collision_prevention.title": "Collision Prevention",
     "quests.tfg_tips.collision_prevention.subtitle": "Reducing casualties",
-    "quests.tfg_tips.collision_prevention.desc": "&5Train&r crashes are a serious problem while automating your railway system. A crash will derail a &5Train&r, making it &4Inoperable&r. Luckily you can prevent most crashes with a bit of infrastructure.\n\nBy right-clicking the &bTrain Signal&r on the tracks before an intersection and then placing it down next to them, you can detect when a &5Train&r is moving over them!\n\nYou can place a &bSemaphore&r on top of a &bTrain Signal&r facing the other track. Now when a &5Train&r is moving over the intersection, the other track will be blocked and &5Trains&r won't be able to pass, preventing a crash.\n\n&3Note:&r You can stack multiple &bSemaphores&r on top of each other and connect them to multiple &bTrain Signals&r, but this gets pretty complex. For more information hold &lW&r while hovering over the &bSemaphore&r for a visualization of the functionality.",
+    "quests.tfg_tips.collision_prevention.desc": "&5Train&r crashes are a serious problem while automating your railway system. A crash will derail a &5Train&r, making it &4Inoperable&r. Luckily you can prevent most crashes with a bit of infrastructure.\n\nBy right-clicking the &bTrain Signal&r on the tracks before an intersection and then placing it down next to them, you can detect when a &5Train&r is moving over them!\n\nYou can place a &bSemaphore&r on top of a &bTrain Signal&r facing the other track. Now when a &5Train&r is moving over the intersection, the other track will be blocked and &5Trains&r won't be able to pass, preventing a crash.\n\n&9Note:&r You can stack multiple &bSemaphores&r on top of each other and connect them to multiple &bTrain Signals&r, but this gets pretty complex. For more information hold &lW&r while hovering over the &bSemaphore&r for a visualization of the functionality.",
 
     "quests.tfg_tips.steam_immersion.title": "Steam Immersion",
     "quests.tfg_tips.steam_immersion.subtitle": "Air pollution",
@@ -794,7 +798,7 @@
 
     "quests.tfg_tips.switching_tracks.title": "Track Switches",
     "quests.tfg_tips.switching_tracks.subtitle": "Parting ways",
-    "quests.tfg_tips.switching_tracks.desc": "&bTrack Switches&r can be used to switch tracks. Right-click the &bTrack Switch&r on somea track and placing it next to it will allow you to switch Tracks!\n\nRight-clicking the &bTrack Switch&r switches the track towards the right side, while shift-right-clicking the &bTrack Switch&r switches them towards the left side.\n\nYou can automate the process of switching tracks with Redstone. Supplying a redstone signal to the sides of the &bTrack Switch&r will make it change the track direction depending on the side from where the signal was received.\n\n&3Note:&r &bTrack Switches&r change their orientation depending on their position to the track and the orientation of the player that placed it. Placing the &bTrack Switch&r on the right-hand-side of the tracks while &lFACING&r the tracks themselves will align them so the switch is aligned parallel with the tracks",
+    "quests.tfg_tips.switching_tracks.desc": "&bTrack Switches&r can be used to switch tracks. Right-click the &bTrack Switch&r on somea track and placing it next to it will allow you to switch Tracks!\n\nRight-clicking the &bTrack Switch&r switches the track towards the right side, while shift-right-clicking the &bTrack Switch&r switches them towards the left side.\n\nYou can automate the process of switching tracks with Redstone. Supplying a redstone signal to the sides of the &bTrack Switch&r will make it change the track direction depending on the side from where the signal was received.\n\n&9Note:&r &bTrack Switches&r change their orientation depending on their position to the track and the orientation of the player that placed it. Placing the &bTrack Switch&r on the right-hand-side of the tracks while &lFACING&r the tracks themselves will align them so the switch is aligned parallel with the tracks",
 
     "quests.tfg_tips.splitting_carriages.title": "Splitting Carriages",
     "quests.tfg_tips.splitting_carriages.subtitle": "Train management",
@@ -802,7 +806,7 @@
 
     "quests.tfg_tips.detecting_cargo.title": "Detecting Cargo",
     "quests.tfg_tips.detecting_cargo.subtitle": "Customs control",
-    "quests.tfg_tips.detecting_cargo.desc": "&bTrain Observers&r can be used to detect the cargo transported by the &5Train&r. By right-clicking the &bTrain Observer&r and placing it next to the tracks, you can filter the train cargo by placing an item on top of the block.\n\nOnce a train with the filtered cargo passes over the &bTrain Observer&r, a redstone signal will be sent from the block!\n\n&3Tip:&r you can use filters to filter multiple items or fluids at once!",
+    "quests.tfg_tips.detecting_cargo.desc": "&bTrain Observers&r can be used to detect the cargo transported by the &5Train&r. By right-clicking the &bTrain Observer&r and placing it next to the tracks, you can filter the train cargo by placing an item on top of the block.\n\nOnce a train with the filtered cargo passes over the &bTrain Observer&r, a redstone signal will be sent from the block!\n\n&9Tip:&r you can use filters to filter multiple items or fluids at once!",
 
     "quests.tfg_tips.automated_deliveries.title": "Automated Deliveries",
     "quests.tfg_tips.automated_deliveries.subtitle": "Your own employees",
@@ -812,7 +816,7 @@
 
     "quests.tfg_tips.cargo_management.title": "Cargo Management",
     "quests.tfg_tips.cargo_management.subtitle": "Loading and unloading",
-    "quests.tfg_tips.cargo_management.desc": "&bPortable interfaces&r allow you to move items between your trains and your storage. Placing a &bPortable Interface&r on the train and connecting it to a vault, fluid tank, or accumulator will allow you to move items, fluids, and energy on and off your train! The interfaces require a &ltwo block gap&r between each other to work.\n\nWhen the two interfaces are \"kissing\", they act as one connected interface, so pulling items out of a stationary interface with a chute will pull them out of the train, for example.\n\n&3Note:&r The Energy Interface will require a GregTech Energy Converter in order to convert the FE to EU.",
+    "quests.tfg_tips.cargo_management.desc": "&bPortable interfaces&r allow you to move items between your trains and your storage. Placing a &bPortable Interface&r on the train and connecting it to a vault, fluid tank, or accumulator will allow you to move items, fluids, and energy on and off your train! The interfaces require a &ltwo block gap&r between each other to work.\n\nWhen the two interfaces are \"kissing\", they act as one connected interface, so pulling items out of a stationary interface with a chute will pull them out of the train, for example.\n\n&9Note:&r The Energy Interface will require a GregTech Energy Converter in order to convert the FE to EU.",
 
     "quests.tfg_tips.efficient_trips.title": "Multi-Fluid Tank",
     "quests.tfg_tips.efficient_trips.subtitle": "Efficient trips",
