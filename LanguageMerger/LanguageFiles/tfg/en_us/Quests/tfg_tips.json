@@ -143,7 +143,7 @@
     "quests.tfg_tips.crates.title": "GregTech Storage",
     "quests.tfg_tips.crates.subtitle": "Earlygame buffering",
     "quests.tfg_tips.crates.desc": "In theory, Crates are flat upgrades to Chests. A single block space that stores more items - what more could you ask for?\n\nThey're more expensive than regular Chests, and can't be attached to Create contraptions, but can hold any size of item and can &6accept Covers&r, making them perfect candidates for buffers in automation.",
-  "quests.tfg_tips.crates.task": "Any GregTech Crate",
+    "quests.tfg_tips.crates.task": "Any GregTech Crate",
 
     "quests.tfg_tips.tape.title": "Tape for Crates",
     "quests.tfg_tips.tape.subtitle": "Moving stuff around",
@@ -563,10 +563,10 @@
     "quests.tfg_tips.create_rubber_ingot.subtitle": "Insulate them cables",
     "quests.tfg_tips.create_rubber_ingot.desc": "Utilizing the &bVacuum Chamber&r and some additional heating, you can process &aLatex&r from various trees into &dRaw Rubber Pulp&r through a specific process. You can then smelt together 3 &dRaw Rubber Pulp&r with a bit of &eSulfur Dust&r in an &bAlloy Smelter&r to create &dRubber Ingots&r, perfect for insulating cables and very much necessary to advance in the &2Voltaic Age&r and beyond...\n\n&9Tip:&r As you progress, there will be several ways to make this process cheaper and easier. Keep checking EMI! You'll be using Rubber for a long time, so it's well worth automating.",
 
-  "quests.tfg_tips.create_concrete_support.title": "Concrete Support",
-  "quests.tfg_tips.create_concrete_support.subtitle": "Have those collapses gotten you upset?",
-  "quests.tfg_tips.create_concrete_support.task0": "Concrete Support",
-  "quests.tfg_tips.create_concrete_support.desc": "&dConcrete&r is a durable material mainly used in construction. &dSupports&r made from it have a greater &arange&r then their wooden counterparts.\n\nFor now, &dConcrete&r can only be made in a &bMixing Bowl&r, but more efficient ways to craft it in bulk will be unlocked later.",
+    "quests.tfg_tips.create_concrete_support.title": "Concrete Support",
+    "quests.tfg_tips.create_concrete_support.subtitle": "Have those collapses gotten you upset?",
+    "quests.tfg_tips.create_concrete_support.task0": "Concrete Support",
+    "quests.tfg_tips.create_concrete_support.desc": "&dConcrete&r is a durable material mainly used in construction. &dSupports&r made from it have a greater &arange&r then their wooden counterparts.\n\nFor now, &dConcrete&r can only be made in a &bMixing Bowl&r, but more efficient ways to craft it in bulk will be unlocked later.",
 
     "__comment12": "#endregion",
 
@@ -637,11 +637,11 @@
     "quests.tfg_tips.quadrocopter.subtitle": "Not a Quadcopter",
     "quests.tfg_tips.quadrocopter.desc": "The &3Quadrocopter&r is a very basic &aHovercraft&r, containing &b6 Inventory Slots&r, a &asingle Upgrade Slot&r and a &csingle Weapon Slot.&r\n\nIt excels in simple controls, making it ideal for &ebuilding.&r",
 
-  "quests.tfg_tips.create_reinforced_concrete_support.title": "Reinforced and Steel Supports",
-  "quests.tfg_tips.create_reinforced_concrete_support.subtitle": "Atlas would be proud",
-  "quests.tfg_tips.create_reinforced_concrete_support.task.0": "Reinforced Concrete Support",
-  "quests.tfg_tips.create_reinforced_concrete_support.task.1": "Steel Support",
-  "quests.tfg_tips.create_reinforced_concrete_support.desc": "&dReinforced Concrete&r and &dSteel&r supports are the best supports.\n\nCrafting either of them requires &9Steel&r, however the &dReinforced Concrete&r ones use significantly less, especially as you unlock more &bmachines&r.\n\n&9Tip:&r &9Steel rebar&r can be used as a support too, having the same range as regular concrete ones.",
+    "quests.tfg_tips.create_reinforced_concrete_support.title": "Reinforced and Steel Supports",
+    "quests.tfg_tips.create_reinforced_concrete_support.subtitle": "Atlas would be proud",
+    "quests.tfg_tips.create_reinforced_concrete_support.task.0": "Reinforced Concrete Support",
+    "quests.tfg_tips.create_reinforced_concrete_support.task.1": "Steel Support",
+    "quests.tfg_tips.create_reinforced_concrete_support.desc": "&dReinforced Concrete&r and &dSteel&r supports are the best supports.\n\nCrafting either of them requires &9Steel&r, however the &dReinforced Concrete&r ones use significantly less, especially as you unlock more &bmachines&r.\n\n&9Tip:&r &9Steel rebar&r can be used as a support too, having the same range as regular concrete ones.",
 
     "quests.tfg_tips.gyrodyne.title": "Gyrodyne",
     "quests.tfg_tips.gyrodyne.subtitle": "Muscle-powered Copter",
@@ -748,89 +748,95 @@
     "quests.tfg_tips.hiking_boots.desc": "&aHiking Boots&r prevent tall grass from slowing you down, increase your safe fall height, and can even give you some extra step height and walking speed. They don't provide as much protection as proper metal armor, but if you're not actually fighting something, these are well worth the trade-off!",
     "quests.tfg_tips.hiking_boots.task": "Any Hiking Boots",
 
-    "quests.tfg_tips.create_steam_n_rails.title": "Create: Steam 'n' Rails",
+    "quests.tfg_tips.create_steam_n_rails.title": "Trains",
     "quests.tfg_tips.create_steam_n_rails.subtitle": "Stay on track",
-    "quests.tfg_tips.create_steam_n_rails.desc": "&2Create: Steam 'n' Rails&r is a powerful mod that allows you to build your own &5Trains&r, these can be handy to travel across the wastelands or help you transport enormous amounts of materials\n\n&3Tip:&r if something is confusing you can always hold &lW&r while hovering over an item for the item functionality visualization.",
+    "quests.tfg_tips.create_steam_n_rails.desc": "&2Create&r has a powerful &5Train&r system for long distance transport of players, items, fluids, and everything else. These can be handy to travel across the wastelands or help you transport enormous amounts of materials, and most importantly, &acan move through unloaded chunks&r.\n\n&3Tip:&r if something is confusing, you can always hold &lW&r while hovering over an item to view its Ponder, which provides a more visual explanation.",
 
     "quests.tfg_tips.train_tracks.title": "Train Tracks",
     "quests.tfg_tips.train_tracks.subtitle": "A sturdy foundation",
-    "quests.tfg_tips.train_tracks.desc": "&dTracks&r are essential for your &5Trains&r, laying paths to different locations will allow you to relocate your trains.\n\n&3&lTip:&r&r Placing a track and right-clicking it with &dTracks&r in your hand, allows you to place tracks quickly and create curved shapes.",
+    "quests.tfg_tips.train_tracks.desc": "&dTracks&r are essential for your &5Trains&r. Laying paths to different locations will allow you to relocate your trains.\n\nPlacing a track and right-clicking it with &dTracks&r in your hand allows you to place tracks quickly and create curved shapes.\n\nIf you hold blocks (or Girders) in your off-hand, these will automatically be placed below any tracks.",
+    "quests.tfg_tips.train_tracks.task": "Any train track",
 
     "quests.tfg_tips.your_first_train.title": "Your First Train",
     "quests.tfg_tips.your_first_train.subtitle": "Steam ahead!",
-    "quests.tfg_tips.your_first_train.desc": "By right-clicking a &bTrain Station&r on the tracks will create an arrow on the tracks, this is the forwards direction of the &5Train&r. Placing the &bTrain Station&r next to the tracks will now allow you to start creating your own &5Trains&r!\n\nIn the &bTrain Station&r interface Press Create new Train, this will project light blue spots on the tracks next to it. Placing &bTrain Casings&r on those spots will create a &5Bogey&r, you can connect up to two bogeys with building blocks to form a &5Carriage&r. Remember to use &aGlue&r!\n\nPlace &bTrain Controls&r facing in the forwards direction of your train, this direction is indicated with the arrow on the track. After Pressing Assemble Train your &5Train&r is now functional! Right-click on the &bTrain Controls&r and use &lW&r and &lS&r to move it around",
+    "quests.tfg_tips.your_first_train.desc": "First, right-click tracks with a &bTrain Station&r to create an arrow on the tracks, which indicate the forward direction of the &5Train&r.\n\nNext, place the &bTrain Station&r beside the tracks to start creating your own &5Trains&r!\n\nIn the &bTrain Station&r interface, press &5Create new Train&r - this will project light blue spots on the tracks next to it.\n\nPlacing &bTrain Casings&r on those spots will create a &5Bogey&r. You can connect up to two bogeys with building blocks to form a &5Carriage&r. Remember to use &aGlue&r!\n\nPlace &bTrain Controls&r facing in the forwards direction of your train.\n\nWhen you're finished, press &5Assemble Train&r inside the station's interface, and your &5Train&r is now functional! Right-click on the &bTrain Controls&r and use your normal forwards and backwards movement keys to drive the train.",
 
     "quests.tfg_tips.train_limitations.title": "Train Limitations",
     "quests.tfg_tips.train_limitations.subtitle": "A little bit of realism",
-    "quests.tfg_tips.train_limitations.desc": "Sadly trains have some limitations. A single train contraption &4CAN NOT&r exceed &b20 bogeys&r and be longer than &b128 blocks&r, keep this in mind while designing your trains.\n\n&3Note:&r you can always change the limits in your config, just remember that increasing the limit will use &lmore&r server resources.",
+    "quests.tfg_tips.train_limitations.desc": "Sadly, trains have some limitations. A single train contraption &4cannot&r exceed &b20 bogeys&r and be longer than &b128 blocks&r - keep this in mind while designing your trains.\n\n&3Note:&r You can always change the limits in Create's config file, but remember that increasing the limit will use &lmore&r server resources.",
 
-    "quests.tfg_tips.hard_stop.title": "Hard Stop",
+    "quests.tfg_tips.hard_stop.title": "Track Buffers",
     "quests.tfg_tips.hard_stop.subtitle": "No more derailing",
     "quests.tfg_tips.hard_stop.desc": "Using &bTrack Buffers&r can prevent derailing of your &5Trains!&r Placing them on the end of an unfinished track or at the outer-ends of your track will remove the possibility for your &5Train&r to derail.",
 
     "quests.tfg_tips.collision_prevention.title": "Collision Prevention",
     "quests.tfg_tips.collision_prevention.subtitle": "Reducing casualties",
-    "quests.tfg_tips.collision_prevention.desc": "&5Train&r crashes are a serious problem while automating your railway system. A crash will derail a &5Train&r making it &4Inoperable&r. Luckily you can prevent most crashes with a bit of infrastructure.\n\nBy right-clicking the &bTrain Signal&r on the tracks close in front of an intersection and placing it next to them you can detect when a &5Train&r is moving over them! You can place a &bSemaphore&r on top of &bTrain Signal&r facing the other track. Now when a &5Train&r is moving over the intersection the other track will be blocked and the &5Trains&r won't be able to pass preventing a crash.\n\n&3Tip:&r you can stack multiple &bSemaphores&r on top of each other and connect them to multiple &bTrain Signals&r, this gets pretty complex. For more information hold &lW&r while hovering over the &bSemaphore&r for a visualization of the functionality.",
+    "quests.tfg_tips.collision_prevention.desc": "&5Train&r crashes are a serious problem while automating your railway system. A crash will derail a &5Train&r, making it &4Inoperable&r. Luckily you can prevent most crashes with a bit of infrastructure.\n\nBy right-clicking the &bTrain Signal&r on the tracks before an intersection and then placing it down next to them, you can detect when a &5Train&r is moving over them!\n\nYou can place a &bSemaphore&r on top of a &bTrain Signal&r facing the other track. Now when a &5Train&r is moving over the intersection, the other track will be blocked and &5Trains&r won't be able to pass, preventing a crash.\n\n&3Note:&r You can stack multiple &bSemaphores&r on top of each other and connect them to multiple &bTrain Signals&r, but this gets pretty complex. For more information hold &lW&r while hovering over the &bSemaphore&r for a visualization of the functionality.",
 
     "quests.tfg_tips.steam_immersion.title": "Steam Immersion",
     "quests.tfg_tips.steam_immersion.subtitle": "Air pollution",
-    "quests.tfg_tips.steam_immersion.desc": "Is your &5Locomotive&r out of style? Fear Not! &bLocoboilers&r and &bSmokestacks&r are here to bring immersion to your railway system. &bSmokestacks&r create steam particles indefinitely, while &bLocoboilers&r give you the possibility to build using &mround&r shapes.",
+    "quests.tfg_tips.steam_immersion.desc": "Is your &5Locomotive&r out of style? Fear Not! &bLocoboilers&r and &bSmokestacks&r are here to bring immersion to your railway system.\n\n&bSmokestacks&r create steam particles indefinitely, while &bLocoboilers&r give you the possibility to build using &mround&r shapes.\n\nBoth blocks are purely decorative.",
+    "quests.tfg_tips.steam_immersion.task.1": "Any smokestack",
+    "quests.tfg_tips.steam_immersion.task.2": "Any boiler",
 
     "quests.tfg_tips.handcar.title": "Handcar",
     "quests.tfg_tips.handcar.subtitle": "A serious workout",
-    "quests.tfg_tips.handcar.desc": "The &bHandcar&r is a deployable train that allows you to move over rails! You can pick it up with a &aWrench&r and move on, a great way to quickly move around without building a full train.",
+    "quests.tfg_tips.handcar.desc": "The &bHandcar&r is a deployable train that allows you to move over rails! You can pick it up with a &aWrench&r and move on. This can be a cheap and great way to quickly move around without building a full train.",
 
     "quests.tfg_tips.seats.title": "Seats",
     "quests.tfg_tips.seats.subtitle": "A comfortable ride",
-    "quests.tfg_tips.seats.desc": "&dSeats&r allow you to sit down while operating your train. You may have noticed that the fundamental law of Inertia is conserved while the train is moving. To prevent flying off the train place a &dSeat&r on your &5Train&r and remember to secure it with &aGlue.&r\n\n&dSeats&r are required for automation of your trains, keep this in mind for later.",
+    "quests.tfg_tips.seats.desc": "&dSeats&r allow you to sit down while operating your train.\n\nTo prevent flying off the train while it's in motion, place a &dSeat&r on your &5Train&r and remember to secure it with &aGlue&r.",
+    "quests.tfg_tips.seats.task": "Any seat",
 
     "quests.tfg_tips.train_cargo.title": "Train Cargo",
     "quests.tfg_tips.train_cargo.subtitle": "Transport at its finest",
-    "quests.tfg_tips.train_cargo.desc": "&bFluid Tanks&r and &bItem Vaults&r can be placed on a &5Train&r to transport items and fluids.",
+    "quests.tfg_tips.train_cargo.desc": "&bFluid Tanks&r, &bItem Vaults&r, and &bAccumulators&r can be placed on a &5Train&r to transport items, fluids, and energy.\n\nYou will need to use their respective Interfaces in order to interact with the train, just like on other contraptions.",
 
-    "quests.tfg_tips.switching_tracks.title": "Switching Tracks",
+    "quests.tfg_tips.switching_tracks.title": "Track Switches",
     "quests.tfg_tips.switching_tracks.subtitle": "Parting ways",
-    "quests.tfg_tips.switching_tracks.desc": "&bTrack Switches&r can be used to switch tracks. By right-clicking the &bTrack Switch&r on Tracks and placing it next to them will allow you to switch Tracks!\n\nRight-clicking the &bTrack Switch&r switches the track towards the right side, while shift-right-clicking the &bTrack Switch&r switches them in towards the left side.\n\nYou can automate the process of switching tracks with Redstone, supplying a redstone signal to the sides of the &bTrack Switch&r will force it to change the track direction depending on the side from where the signal was received.\n\n&3Note:&r &bTrack Switches&r change their orientation depending on their position to the track and the orientation of the player that placed it. Placing the &bTrack Switch&r on the right-hand-side of the tracks while &lFACING&r the tracks themselves will align them in a way the switch is aligned parallel with the tracks",
+    "quests.tfg_tips.switching_tracks.desc": "&bTrack Switches&r can be used to switch tracks. Right-click the &bTrack Switch&r on somea track and placing it next to it will allow you to switch Tracks!\n\nRight-clicking the &bTrack Switch&r switches the track towards the right side, while shift-right-clicking the &bTrack Switch&r switches them towards the left side.\n\nYou can automate the process of switching tracks with Redstone. Supplying a redstone signal to the sides of the &bTrack Switch&r will make it change the track direction depending on the side from where the signal was received.\n\n&3Note:&r &bTrack Switches&r change their orientation depending on their position to the track and the orientation of the player that placed it. Placing the &bTrack Switch&r on the right-hand-side of the tracks while &lFACING&r the tracks themselves will align them so the switch is aligned parallel with the tracks",
 
     "quests.tfg_tips.splitting_carriages.title": "Splitting Carriages",
     "quests.tfg_tips.splitting_carriages.subtitle": "Train management",
-    "quests.tfg_tips.splitting_carriages.desc": "Does loading your goods take too much time? Did you ever just want to leave the empty &5Carriage&r behind? Now you can!\n\nBy right-clicking a &bTrain Coupler&r on the tracks and placing it next to them will spawn two &dNodes&r 5 blocks apart from each other, you can change the distance of the nodes by holding a wrench and hold-right-click on the &bTrain Couplers&r top-side.\n\nBy powering the &bTrain Coupler&r with a redstone signal while two separate &5Carriages&r are above the Nodes the &5Carriages&r will split! They won't be connected anymore and your &5Train&r is free to go wherever it wants. Do you want to connect them back? You can do it by repeating the same steps!",
+    "quests.tfg_tips.splitting_carriages.desc": "Does loading your goods take too much time? Did you ever just want to leave the empty &5Carriage&r behind? Now you can!\n\nBy right-clicking a &bTrain Coupler&r on the tracks and placing it next to them will spawn two &dNodes&r 5 blocks apart from each other. You can change the distance of the nodes by holding a wrench and hold-right-clicking on the &bTrain Coupler's&r top-side.\n\nPowering the &bTrain Coupler&r with a redstone signal while two separate &5Carriages&r are above the Nodes will cause the carriages to split! They won't be connected any more and your &5Train&r is free to go wherever it wants. Do you want to connect them back? You can do it by repeating the same steps!",
 
     "quests.tfg_tips.detecting_cargo.title": "Detecting Cargo",
     "quests.tfg_tips.detecting_cargo.subtitle": "Customs control",
-    "quests.tfg_tips.detecting_cargo.desc": "&bTrain Observers&r can be used to detect the cargo transported by the &5Train&r. By right-clicking the &bTrain Observer&r and placing it next to the tracks, you can filter the train cargo by placing an item on top of the block.\n\nOnce a train with the filtered cargo passes over the &bTrain Observer&r a redstone signal will be sent from the block!\n\n&3Tip:&r you can use filters to filter multiple items or fluids at once!",
+    "quests.tfg_tips.detecting_cargo.desc": "&bTrain Observers&r can be used to detect the cargo transported by the &5Train&r. By right-clicking the &bTrain Observer&r and placing it next to the tracks, you can filter the train cargo by placing an item on top of the block.\n\nOnce a train with the filtered cargo passes over the &bTrain Observer&r, a redstone signal will be sent from the block!\n\n&3Tip:&r you can use filters to filter multiple items or fluids at once!",
 
     "quests.tfg_tips.automated_deliveries.title": "Automated Deliveries",
     "quests.tfg_tips.automated_deliveries.subtitle": "Your own employees",
-    "quests.tfg_tips.automated_deliveries.desc": "It's time to automate your railway system! By placing an &aMetal Casing&r and right-clicking a &bConductor's Cap&r on it you can spawn your own conductor. Cute, isn't he? You can move him around with a &bLead&r.\n\nPlacing him next to a &aLever&r and looking at him will make him pull the lever, this is useful for &aTrack Switches&r. You can also place him on a &aSeat&r in your train. By giving him a &bTrain Schedule&r you can make him ride your train between your &aTrain Stations&r.\n\nRight-clicking a &bTrain Schedule&r allows you to select the &aTrain Station&r to which the &5Train&r should go and how long it needs to wait at a specific station. You can also select if the &5Train&r should loop the route or stop at a specific point.",
+    "quests.tfg_tips.automated_deliveries.desc.1": "It's time to automate your railway system! Placing a &aMetal Casing&r and right-clicking it with a &bConductor's Cap&r will spawn your own Conductor. Cute, isn't it? You can move it around with a &bLead&r.\n\nPlacing it next to a &aLever&r and looking at it will make it pull the lever, which is useful for &aTrack Switches&r.\n\nYou can also place it on a &aSeat&r in your train to use it as a driver.",
+    "quests.tfg_tips.automated_deliveries.desc.2": "Train drivers are not limited to Conductors! You can use any mob (such as an animal) on a seat or a Blaze Burner as a train driver.\n\nRight-clicking a &bTrain Schedule&r in the air allows you to select the &aTrain Station&r to which the &5Train&r should go and how long it needs to wait at a specific station. You can also select if the &5Train&r should loop the route or stop at a specific point.\n\nGiving your mob a &bTrain Schedule&r will turn it into a driver and make it ride your train between your &aTrain Stations&r.",
+    "quests.tfg_tips.automated_deliveries.task": "Any conductor cap",
 
     "quests.tfg_tips.cargo_management.title": "Cargo Management",
     "quests.tfg_tips.cargo_management.subtitle": "Loading and unloading",
-    "quests.tfg_tips.cargo_management.desc": "&bPortable interfaces&r allow you to move items between your trains and your storage. Placing a &bPortable Interface&r on the train and connecting it to a vault or fluid tank will allow you to move items on and off your train! The interfaces require a &ltwo block gap&r between each other to work.\n\nBy supplying the &lPortable Interface&r next to the tracks with items will cause them to be moved onto the train, once the interfaces are connected. While requesting items from the interface will move them off the train. This can be done with &aHoppers, Item and Fluid Pipes.&r\n\n&3Note:&r an interface &4DOESN'T&r have its own storage, it's an extension of the Vault or the Fluid Tank, keep this in mind while working with them.",
+    "quests.tfg_tips.cargo_management.desc": "&bPortable interfaces&r allow you to move items between your trains and your storage. Placing a &bPortable Interface&r on the train and connecting it to a vault, fluid tank, or accumulator will allow you to move items, fluids, and energy on and off your train! The interfaces require a &ltwo block gap&r between each other to work.\n\nWhen the two interfaces are \"kissing\", they act as one connected interface, so pulling items out of a stationary interface with a chute will pull them out of the train, for example.\n\n&3Note:&r The Energy Interface will require a GregTech Energy Converter in order to convert the FE to EU.",
 
-    "quests.tfg_tips.efficient_trips.title": "Efficient Trips",
+    "quests.tfg_tips.efficient_trips.title": "Multi-Fluid Tank",
     "quests.tfg_tips.efficient_trips.subtitle": "Efficient trips",
-    "quests.tfg_tips.efficient_trips.desc": "By installing &bMulti-Fluid Tanks&r on your train you don't need to worry about transporting multiple fluids at the same time!",
+    "quests.tfg_tips.efficient_trips.desc": "If your train is carrying multiple fluids at once, you may be interested in the &bMulti-Fluid Tank&r, which can carry up to eight different fluids.\n\nIf you use this tank not on a train, you can also use a Multi-Fluid Access Port to control how fluids are output into different directions.",
 
     "quests.tfg_tips.fueling_your_train.title": "Fueling Your Train",
     "quests.tfg_tips.fueling_your_train.subtitle": "Faster than warpspeed, kinda...",
-    "quests.tfg_tips.fueling_your_train.desc": "Your &5Train&r can use Solid fuels to accelerate the train up to 50%! By supplying the &5Train&r with any kind of &bCoal&r your train's speed will increase for 5min per piece of Coal.",
+    "quests.tfg_tips.fueling_your_train.desc": "Your &5Train&r can use Solid fuels to accelerate the train up to 50% faster! By supplying the &5Train&r with any kind of &bburnable fuel&r, your train's speed will increase for 5 min per item.",
 
     "quests.tfg_tips.liquid_train_fuel.title": "Liquid Train Fuel",
     "quests.tfg_tips.liquid_train_fuel.subtitle": "Concentrated energy",
-    "quests.tfg_tips.liquid_train_fuel.desc": "&bLiquid fuels&r are way more energy dense compared to Solid fuels, but they require a bit more infrastructure. By placing an &bFuel Tank&r on the Train and supplying it using the &bFuel Interface&r your &5Train&r will consume 100mb of fuel and accelerate it by 50%. Liquid fuels last &lA LOT&r longer compared to &aCoal&r.\n\nE.g. 100mb of Rocket Fuel lasts for &l6 HOURS&r, that's &l60 HOURS&r per bucket.\n\nYou can use &aCreosote, Benzene, Diesel&r and way more as fuel in your train, are you unsure if your liquid classifies as a fuel? Try pumping it into a &bFuel Tank&r, if the tank accepts the liquid it can be used as fuel!",
+    "quests.tfg_tips.liquid_train_fuel.desc": "&bLiquid fuels&r are way more energy dense compared to Solid fuels, but they require a bit more infrastructure. By placing a &bFuel Tank&r on the Train and supplying it using the &bFuel Interface&r, your &5Train&r will consume 100mb of fuel and accelerate it by 50%. Liquid fuels last &la lot&r longer compared to &aitems&r.\n\nFor example, 100mb of Rocket Fuel lasts for &l6 hours&r, which is &l60 HOURS&r per bucket.\n\nYou can use &aCreosote, Syngas, Diesel&r and much more as fuel in your train. Are you unsure if your liquid classifies as a fuel? Try pumping it into a &bFuel Tank&r - if the tank accepts the liquid, it can be used as fuel!",
 
     "quests.tfg_tips.conductor_whistle.title": "Conductor Whistle",
     "quests.tfg_tips.conductor_whistle.subtitle": "I think I got tinnitus",
-    "quests.tfg_tips.conductor_whistle.desc": "The &bConductor Whistle&r can be used to make a &dTrain Conductor&r move to a specific place on the tracks, ideal if you want to modify a working &5Train&r.\n\nRight-clicking it on a &dTrain Conductor&r will bind the item to them, by right-clicking on the tracks the &5Train&r will move towards your selected spot, if the &5Train&r is not able to access the specified location it will tell you so in the game chat.\n\nNote: The &bConductor Whistle&r will &4OVERRIDE&r the &aTrain Schedule&r, if you wish for your &dConductor&r to continue his journey you have to re-give him the &aTrain Schedule&r by right-clicking him &ltwice&r with an empty hand.",
+    "quests.tfg_tips.conductor_whistle.desc": "The &bConductor Whistle&r can be used to make a &dTrain Conductor&r move to a specific place on the tracks, ideal if you want to modify a working &5Train&r.\n\nRight-clicking it on a &dTrain Conductor&r will bind the item to the conductor, and by right-clicking on the tracks the &5Train&r will move towards your selected spot.\n\nIf the &5Train&r is not able to access the specified location, it will tell you so in the game chat.\n\nNote: The &bConductor Whistle&r will &4OVERRIDE&r the &aTrain Schedule&r - if you wish for your &dConductor&r to continue its journey, you have to re-give it the &aTrain Schedule&r by right-clicking it &ltwice&r with an empty hand.",
 
     "quests.tfg_tips.remote_lens.title": "Remote Lens",
     "quests.tfg_tips.remote_lens.subtitle": "Legalised oversight",
-    "quests.tfg_tips.remote_lens.desc": "Ever wondered where your &5Train&r goes? Or did you lose it and cannot find it? Fear not!\n\nBy giving your &dTrain Conductor&r &aEngineer's Goggles&r and a &bRemote Lens&r you can now look from the perspective of the &dTrain Conductor&r.\n\nRight-click the item on the &dTrain Conductor&r to bind it to him and use it whenever you want to inspect your &5Train!&r",
+    "quests.tfg_tips.remote_lens.desc": "Ever wondered where your &5Train&r goes? Or did you lose it and cannot find it? Fear not!\n\nBy giving your &dTrain Conductor&r &aEngineer's Goggles&r and a &bRemote Lens&r, you can now look from the perspective of the &dTrain Conductor&r.\n\nRight-click the item on the &dTrain Conductor&r to bind it, and use the lens whenever you want to inspect your &5Train!&r",
 
     "quests.tfg_tips.back_on_tracks.title": "Back On Tracks",
-    "quests.tfg_tips.back_on_tracks.subtitle": "Why didn't you use Track Buffers ???",
-    "quests.tfg_tips.back_on_tracks.desc": "It happens to the best of us. You accidentally break the tracks or your &5Train&r somehow escaped your tracks or two trains collided with each other. And now it's &lDerailed&r. Luckily there is an easy fix for that, by right-clicking with a &aWrench&r to select it and then right-click again on the tracks to place it back. Did you place the train facing the wrong direction? You can select it again and place it down while facing the other direction, this will make the &5Train&r face the other direction!",
+    "quests.tfg_tips.back_on_tracks.subtitle": "Why didn't you use Track Buffers???",
+    "quests.tfg_tips.back_on_tracks.desc": "It happens to the best of us. You accidentally break the tracks or your &5Train&r somehow escaped your tracks, or two trains collided with each other. And now it's &lDerailed&r.\n\nLuckily there is an easy fix for that! Right-click your train with a &aWrench&r to select it and then right-click on the tracks to place it back.\n\nDid you place the train facing the wrong direction? You can select it again and place it down while facing the other direction, which will make it flip around!",
 
     "__comment14": "#endregion",
 
@@ -1097,5 +1103,5 @@
 
     "quests.tfg_tips.tools_tips.cheese_rack.title": "Cheese Rack",
     "quests.tfg_tips.tools_tips.cheese_rack.subtitle": "Wait, that's not a barrel...",
-    "quests.tfg_tips.tools_tips.cheese_rack.desc": "Barrel racks can be used to place cheesewheels on top of other cheesewheels just like barrels, allowing for greater space-efficiency! \n\nConsult your field guide to learn specifics about how to use them.",
+    "quests.tfg_tips.tools_tips.cheese_rack.desc": "Barrel racks can be used to place cheesewheels on top of other cheesewheels just like barrels, allowing for greater space-efficiency! \n\nConsult your field guide to learn specifics about how to use them."
 }
