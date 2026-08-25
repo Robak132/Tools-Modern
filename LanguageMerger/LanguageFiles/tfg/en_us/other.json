@@ -147,6 +147,20 @@
     "tfg.machine.ore_processing_beneath.fluid_consumption": "%s: %s",
     "tfg.machine.ore_processing_beneath.fluid_consumption.tooltip": "The more parallels are running, the less fluid is consumed per recipe",
 
+    "tfg.machine.me_assembler.budding_tier": "Catalyst Acceleration: %s",
+    "tfg.recipe.me_assembler.budding_hint": "Faster with better Budding",
+
+    "tfg.machine.budding_charger.max": "Flawless Budding Reached",
+    "tfg.machine.budding_charger.progress": "Charge Progess: %s",
+    "tfg.machine.budding_charger.tier_too_low": "You need to run a better recipe to continue to upgrade",
+    "tfg.recipe.budding_charge": "Charge per recipe: %s",
+    "tfg.recipe.budding_max_tier_label": "Tier maximum:",
+    "tfg.budding_tier.0": "Certus Block",
+    "tfg.budding_tier.1": "Damaged Budding",
+    "tfg.budding_tier.2": "Chipped Budding",
+    "tfg.budding_tier.3": "Flawed Budding",
+    "tfg.budding_tier.4": "Flawless Budding",
+
     "key.tfg.spray_can_menu": "Open Spray Can Menu",
     "key.categories.tfg": "TerraFirmaGreg",
 
