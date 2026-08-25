@@ -820,11 +820,11 @@
 
     "quests.tfg_tips.fueling_your_train.title": "Fueling Your Train",
     "quests.tfg_tips.fueling_your_train.subtitle": "Faster than warpspeed, kinda...",
-    "quests.tfg_tips.fueling_your_train.desc": "Your &5Train&r can use Solid fuels to accelerate the train up to 50% faster! By supplying the &5Train&r with any kind of &bburnable fuel&r, your train's speed will increase for 5 min per item.",
+    "quests.tfg_tips.fueling_your_train.desc": "Your &5Train&r can use Solid fuels to accelerate the train up to 50%% faster! By supplying the &5Train&r with any kind of &bburnable fuel&r, your train's speed will increase for 5 min per item.",
 
     "quests.tfg_tips.liquid_train_fuel.title": "Liquid Train Fuel",
     "quests.tfg_tips.liquid_train_fuel.subtitle": "Concentrated energy",
-    "quests.tfg_tips.liquid_train_fuel.desc": "&bLiquid fuels&r are way more energy dense compared to Solid fuels, but they require a bit more infrastructure. By placing a &bFuel Tank&r on the Train and supplying it using the &bFuel Interface&r, your &5Train&r will consume 100mb of fuel and accelerate it by 50%. Liquid fuels last &la lot&r longer compared to &aitems&r.\n\nFor example, 100mb of Rocket Fuel lasts for &l6 hours&r, which is &l60 HOURS&r per bucket.\n\nYou can use &aCreosote, Syngas, Diesel&r and much more as fuel in your train. Are you unsure if your liquid classifies as a fuel? Try pumping it into a &bFuel Tank&r - if the tank accepts the liquid, it can be used as fuel!",
+    "quests.tfg_tips.liquid_train_fuel.desc": "&bLiquid fuels&r are way more energy dense compared to Solid fuels, but they require a bit more infrastructure. By placing a &bFuel Tank&r on the Train and supplying it using the &bFuel Interface&r, your &5Train&r will consume 100mb of fuel and accelerate it by 50%%. Liquid fuels last &la lot&r longer compared to &aitems&r.\n\nFor example, 100mb of Rocket Fuel lasts for &l6 hours&r, which is &l60 HOURS&r per bucket.\n\nYou can use &aCreosote, Syngas, Diesel&r and much more as fuel in your train. Are you unsure if your liquid classifies as a fuel? Try pumping it into a &bFuel Tank&r - if the tank accepts the liquid, it can be used as fuel!",
 
     "quests.tfg_tips.conductor_whistle.title": "Conductor Whistle",
     "quests.tfg_tips.conductor_whistle.subtitle": "I think I got tinnitus",
