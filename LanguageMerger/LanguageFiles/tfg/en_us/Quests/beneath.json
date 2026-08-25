@@ -29,7 +29,7 @@
 
 	"quests.tfg_tips.blue_steel_diving.title": "Blue Steel Diving Gear",
 	"quests.tfg_tips.blue_steel_diving.subtitle": "Perfect for taking a warm lava bath",
-	"quests.tfg_tips.blue_steel_diving.desc": "The &9Blue Steel Diving Gear&r is a special set of armor that makes you completely impervious to &cLava&r while you're wearing it. The reduced &aWarmth&r but high &bInsulation&r means you'll be able to keep a very stable body temperature while in &4The Beneath.&r",
+	"quests.tfg_tips.blue_steel_diving.desc": "The &9Blue Steel Diving Gear&r is a special set of armor that makes you completely impervious to &cLava&r while you're wearing it. However, it does not provide any protection from high ambient temperatures - you'll need protective clothing and cooling food or drink for that.",
 
 	"quests.tfg_tips.juicer.title": "Juicer",
 	"quests.tfg_tips.juicer.subtitle": "Hydration on a Pinch",
@@ -83,7 +83,7 @@
 
 	"quests.tfg_tips.top_slimes.title": "Tameable Jellies",
 	"quests.tfg_tips.top_slimes.subtitle": "Isn't this just Slime Rancher?",
-	"quests.tfg_tips.top_slimes.desc.1": "In &4The Beneath&r you'll find the usual aggressive green slimes you're used to, but you might also find some new &efriendlier jellies&r in certain environments.\n\nThese can be tamed similar to animals on the surface, by feeding them &6mushrooms&r to raise their familiarity. Jellies are hermaphoditic, meaning any slime can breed with another of its same type. Each slime also has its own uses - some are used for producing items, while others provide more passive effects.\n\nRaise your slime's familiarity enough and they can also become your pets, letting you issue commands to them.",
+	"quests.tfg_tips.top_slimes.desc.1": "In &4The Beneath&r you'll find the usual aggressive green slimes you're used to, but you might also find some new &efriendlier jellies&r in certain environments.\n\nThese can be tamed similar to animals on the surface, by feeding them &6nutritional mash&r to raise their familiarity. Jellies are hermaphoditic, meaning any slime can breed with another of its same type. Each slime also has its own uses - some are used for producing items, while others provide more passive effects.\n\nRaise your slime's familiarity enough and they can also become your pets, letting you issue commands to them.",
 	"quests.tfg_tips.top_slimes.desc.2": "On the top layer, you can encounter &bIce Jellies&r and &aPlant Jellies&r.\n\n- &bIce Jellies&r are in the Salt Caves biome and provide a cooling effect to the player when nearby, but do not produce anything.\n\n- &aPlant Jellies&r from the Muggy Bog biome produce Plant Slime Balls which can be crushed into Plant Balls for fertiliser.\n\nNote that unlike surface animals, jellies &lonly&r provide resources &dwhen a player feeds them&r, and &lonly&r when they're in &4The Beneath&r.",
 	"quests.tfg_tips.top_slimes.task.1": "Find an Ice Jellie",
 	"quests.tfg_tips.top_slimes.task.2": "Find a Plant Jellie",
@@ -93,7 +93,10 @@
 	"quests.tfg_tips.middle_beneath.desc": "The middle layer of &4The Beneath&r is where the heat starts to become an actual threat. However, this is also where you'll start finding more of the valuable resources, such as &dKaolin Clay&r.\n\nMake sure you have ample preparations before descending!",
 
 	"quests.tfg_tips.red_elk.title": "Red Elk",
-	"quests.tfg_tips.red_elk.desc": "&cRed Elk&r are one of the local wild animals in &4The Beneath&r. They can only be found on the middle and bottom layers, and are your only source of &cLavaproof Hides&r. You can also use these hides for other leather purposes.",
+	"quests.tfg_tips.red_elk.desc": "&cRed Elk&r are one of the local wild animals in &4The Beneath&r. They can only be found on the middle and bottom layers, and are a source of &cLavaproof Hides&r. You can also use these hides for other leather purposes.",
+
+	"quests.tfg_tips.phantoms.title": "Phantoms",
+	"quests.tfg_tips.phantoms.desc": "&dPhantoms&r can be naturally found flying around the middle and bottom layers of &4The Beneath&r. They have no relation to whether or not you sleep, and their membrane can be crafted into &bPhantom Silk&r.",
 
 	"quests.tfg_tips.middle_slimes.title": "More Tameable Jellies",
 	"quests.tfg_tips.middle_slimes.subtitle": "Super adaptable!",

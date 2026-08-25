@@ -875,6 +875,7 @@
 	"block.tfg.machine_casing_power_casing": "Insulated Power Casing",
 	"block.tfg.active_power_transformer": "Active Energy Transformer",
 	"block.tfg.casings.machine_casing_pressure": "Pressure Casing",
+	"block.tfg.casings.machine_casing_ae2": "Fluix-Inscribed Casing",
 
 	"block.tfg.glacian_wool_frame": "Framed Glacian Wool",
 	"block.tfg.aes_insulation_frame": "Framed AES Insulation",
@@ -1056,7 +1057,7 @@
 	"block.tfg.smr_generator": "Small Modular Turbine",
 	"block.tfg.casings.machine_casing_desh_ptfe": "Radiation-Safe Desh Casing",
 	"block.tfg.uv_smr_fluid_import_hatch": "SMT Input Hatch",
-	"block.tfg.ore_processing_beneath": "Geologic Vulcanizer",
+	"block.tfg.ore_processing_beneath": "Geothermal Vulcanizer",
 	"block.tfg.me_assembler": "ME Assembler",
 
 	"block.tfg.bioreactor": "Bioreactor",
