@@ -1056,7 +1056,7 @@
 	"block.tfg.smr_generator": "Small Modular Turbine",
 	"block.tfg.casings.machine_casing_desh_ptfe": "Radiation-Safe Desh Casing",
 	"block.tfg.uv_smr_fluid_import_hatch": "SMT Input Hatch",
-	"block.tfg.ore_processing_beneath": "Geologic Vulcanizer",
+	"block.tfg.ore_processing_beneath": "Geothermal Vulcanizer",
 
 	"block.tfg.bioreactor": "Bioreactor",
 	"block.tfg.growth_chamber": "Growth Chamber",
