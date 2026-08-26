@@ -19,5 +19,10 @@
 	"block.ae2.sky_stone_small_brick": "Suevite Small Bricks",
 	"block.ae2.sky_stone_small_brick_stairs": "Suevite Small Brick Stairs",
 	"block.ae2.sky_stone_small_brick_wall": "Suevite Small Brick Wall",
-	"block.ae2.sky_stone_small_brick_slab": "Suevite Small Brick Slab"
+	"block.ae2.sky_stone_small_brick_slab": "Suevite Small Brick Slab",
+
+	"block.ae2.flawless_budding_quartz": "Exquisite Budding Certus Quartz",
+	"block.ae2.flawed_budding_quartz": "Flawless Budding Certus Quartz",
+	"block.ae2.chipped_budding_quartz": "Flawed Budding Certus Quartz",
+	"block.ae2.damaged_budding_quartz": "Chipped Budding Certus Quartz"
 }
