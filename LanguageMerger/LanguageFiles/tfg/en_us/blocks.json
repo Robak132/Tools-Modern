@@ -875,7 +875,9 @@
 	"block.tfg.machine_casing_power_casing": "Insulated Power Casing",
 	"block.tfg.active_power_transformer": "Active Energy Transformer",
 	"block.tfg.casings.machine_casing_pressure": "Pressure Casing",
+	"block.tfg.casings.machine_casing_pressure_dark": "Pressure Casing",
 	"block.tfg.casings.machine_casing_ae2": "Fluix-Inscribed Casing",
+	"block.tfg.casings.machine_casing_ptfe_black": "Rad-Resistant Polymerized Steel Casing",
 
 	"block.tfg.glacian_wool_frame": "Framed Glacian Wool",
 	"block.tfg.aes_insulation_frame": "Framed AES Insulation",
@@ -1059,6 +1061,8 @@
 	"block.tfg.uv_smr_fluid_import_hatch": "SMT Input Hatch",
 	"block.tfg.ore_processing_beneath": "Geothermal Vulcanizer",
 	"block.tfg.me_assembler": "ME Assembler",
+	"block.tfg.budding_charge": "ME Budding Charger",
+	"block.tfg.me_assembler_redstone_port": "ME Redstone Port",
 
 	"block.tfg.bioreactor": "Bioreactor",
 	"block.tfg.growth_chamber": "Growth Chamber",
