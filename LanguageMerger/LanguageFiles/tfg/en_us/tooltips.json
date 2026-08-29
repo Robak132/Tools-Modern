@@ -129,7 +129,7 @@
     "gtceu.tooltip.machine.coal_liquefaction_tower_1": "§7Smoothie Maker§r",
     "gtceu.tooltip.machine.coal_liquefaction_tower_2": "§7Extracts gas and liquids from carbonic solids§r",
 
-    "tfg.machine.me_assembler_redstone_port.tooltip": "Can be use within a ME Assembler or ME Budding Charger\nNothing: 0 Signal\nCertus Block: 1 Signal\nChipped Budding: 2 Signal\nFlawed Budding: 3 Signal\nFlawless: 4 Signal\nExquisite: 5 Signal",
+    "tfg.machine.me_assembler_redstone_port.tooltip": "§7Can be used as part of an ME Resonance Fabricator or ME Resonance Charger\nNothing: 0 Signal\nCertus Block: 1 Signal\nChipped Budding Certus: 2 Signal\nFlawed Budding Certus: 3 Signal\nFlawless Budding Certus: 4 Signal\nExquisite Budding Certus: 5 Signal",
 
     "tfg.tooltip.ore_prospector_stats": "Scan Range: %s, Cross Section: %s x %s.",
     "tfg.tooltip.ore_prospector_count": "This prospector will display ore counts.",
