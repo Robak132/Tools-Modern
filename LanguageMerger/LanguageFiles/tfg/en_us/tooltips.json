@@ -105,11 +105,11 @@
     "tfg.tooltip.machine.gas_well_3": "§7Insert an explosive every %s seconds.§r",
     "tfg.tooltip.machine.budding_charge_1": "§7Upgrades Budding Certus or Certus Blocks to higher grades§r",
     "tfg.tooltip.machine.budding_charge_2": "§7Use with ME Spatial Storage to move the Budding Certus§r",
-    "tfg.tooltip.machine.budding_charge_3": "§7A §cME Redstone Port§r outputs the current grade of Budding Certus",
+    "tfg.tooltip.machine.budding_charge_3": "§7A §cME Redstone Port§7 outputs the current grade of Budding Certus",
     "tfg.tooltip.machine.me_assembler_1": "§7Certus-Powered Lunar AE2 Assembler§r",
     "tfg.tooltip.machine.me_assembler_2": "§7Requires a Certus Block or a Budding Certus (has a chance to degrade) to run recipes§r",
     "tfg.tooltip.machine.me_assembler_3": "§7The Higher the grade of the Budding Certus, the faster the recipe - from §6100%§r §7to§r §61600%§r §7faster§r",
-    "tfg.tooltip.machine.me_assembler_4": "§7A §cME Redstone Port§r outputs the current grade of Budding Certus",
+    "tfg.tooltip.machine.me_assembler_4": "§7A §cME Redstone Port§7 outputs the current grade of Budding Certus",
     "gtceu.tooltip.machine.moon_dust_harvester_1": "§7Extraterrestrial Vacuum Cleaner§r",
     "gtceu.tooltip.machine.moon_dust_harvester_2": "§7Harvests infinite Regolith Dust depending on the biome its placed in.§r",
     "gtceu.tooltip.machine.ostrum_harvester_1": "§7Legally Distinct Spice Crawler§r",
@@ -129,7 +129,7 @@
     "gtceu.tooltip.machine.coal_liquefaction_tower_1": "§7Smoothie Maker§r",
     "gtceu.tooltip.machine.coal_liquefaction_tower_2": "§7Extracts gas and liquids from carbonic solids§r",
 
-    "tfg.machine.me_assembler_redstone_port.tooltip": "Can be use within a ME Assembler or ME Budding Charger\nNothing: 0 Signal\nCertus Block: 1 Signal\nChipped Budding: 2 Signal\nFlawed Budding: 3 Signal\nFlawless: 4 Signal\nExquisite: 5 Signal",
+    "tfg.machine.me_assembler_redstone_port.tooltip": "§7Can be used as part of an ME Resonance Fabricator or ME Resonance Charger\nNothing: 0 Signal\nCertus Block: 1 Signal\nChipped Budding Certus: 2 Signal\nFlawed Budding Certus: 3 Signal\nFlawless Budding Certus: 4 Signal\nExquisite Budding Certus: 5 Signal",
 
     "tfg.tooltip.ore_prospector_stats": "Scan Range: %s, Cross Section: %s x %s.",
     "tfg.tooltip.ore_prospector_count": "This prospector will display ore counts.",

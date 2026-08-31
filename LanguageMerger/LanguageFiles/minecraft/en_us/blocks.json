@@ -117,5 +117,8 @@
 	"block.minecraft.brown_wool": "Brown Cloth Block",
 	"block.minecraft.green_wool": "Green Cloth Block",
 	"block.minecraft.red_wool": "Red Cloth Block",
-	"block.minecraft.black_wool": "Black Cloth Block"
+	"block.minecraft.black_wool": "Black Cloth Block",
+
+	"block.minecraft.large_fern": "Shuttlecock Fern",
+	"block.minecraft.fern": "Soft Shield Fern"
 }
