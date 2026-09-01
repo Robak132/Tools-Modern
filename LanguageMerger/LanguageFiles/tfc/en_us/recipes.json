@@ -1,5 +1,22 @@
 {
   "tfc.recipe.barrel.tfg.barrel.feta_wheel": "Feta Wheel",
   "tfc.recipe.barrel.tfg.barrel.gouda_wheel": "Gouda Wheel",
-  "tfc.recipe.barrel.tfg.barrel.shosha_wheel": "Shosha Wheel"
+  "tfc.recipe.barrel.tfg.barrel.shosha_wheel": "Shosha Wheel",
+
+  "tfc.recipe.barrel.tfc.barrel.dye.bleach_wool": "Bleaching Cloth Block",
+  "tfc.recipe.barrel.tfc.barrel.dye.black_wool": "Dyeing Cloth Block Black",
+  "tfc.recipe.barrel.tfc.barrel.dye.blue_wool": "Dyeing Cloth Block Blue",
+  "tfc.recipe.barrel.tfc.barrel.dye.brown_wool": "Dyeing Cloth Block Brown",
+  "tfc.recipe.barrel.tfc.barrel.dye.cyan_wool": "Dyeing Cloth Block Cyan",
+  "tfc.recipe.barrel.tfc.barrel.dye.gray_wool": "Dyeing Cloth Block Gray",
+  "tfc.recipe.barrel.tfc.barrel.dye.green_wool": "Dyeing Cloth Block Green",
+  "tfc.recipe.barrel.tfc.barrel.dye.light_blue_wool": "Dyeing Cloth Block Light Blue",
+  "tfc.recipe.barrel.tfc.barrel.dye.light_gray_wool": "Dyeing Cloth Block Light Gray",
+  "tfc.recipe.barrel.tfc.barrel.dye.lime_wool": "Dyeing Cloth Block Lime",
+  "tfc.recipe.barrel.tfc.barrel.dye.magenta_wool": "Dyeing Cloth Block Magenta",
+  "tfc.recipe.barrel.tfc.barrel.dye.orange_wool": "Dyeing Cloth Block Orange",
+  "tfc.recipe.barrel.tfc.barrel.dye.pink_wool": "Dyeing Cloth Block Pink",
+  "tfc.recipe.barrel.tfc.barrel.dye.purple_wool": "Dyeing Cloth Block Purple",
+  "tfc.recipe.barrel.tfc.barrel.dye.red_wool": "Dyeing Cloth Block Red",
+  "tfc.recipe.barrel.tfc.barrel.dye.yellow_wool": "Dyeing Cloth Block Yellow"
 }
